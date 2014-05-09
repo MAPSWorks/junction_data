@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-414722' visible='true' lat='31.1448783' lon='121.5805274' />
+  <node id='-414720' visible='true' lat='31.1472657' lon='121.5948209' />
+  <node id='-414719' visible='true' lat='31.1471187' lon='121.594212' />
+  <node id='-414718' visible='true' lat='31.147082' lon='121.5937829' />
+  <node id='-414717' visible='true' lat='31.1470568' lon='121.5933054' />
+  <node id='-414716' visible='true' lat='31.147043' lon='121.5931284' />
+  <node id='-414715' visible='true' lat='31.1469925' lon='121.5922406' />
+  <node id='-414714' visible='true' lat='31.14688' lon='121.5903148' />
+  <node id='-414713' visible='true' lat='31.146862' lon='121.589921' />
+  <node id='-414712' visible='true' lat='31.146802' lon='121.5896469' />
+  <node id='-414711' visible='true' lat='31.1467331' lon='121.5886465' />
+  <node id='-414710' visible='true' lat='31.1466987' lon='121.5873375' />
+  <node id='-414709' visible='true' lat='31.1466596' lon='121.5859347' />
+  <node id='-414708' visible='true' lat='31.1466482' lon='121.5855297' />
+  <node id='-414707' visible='true' lat='31.1498951' lon='121.5934971' />
+  <node id='-414706' visible='true' lat='31.150208' lon='121.5944739' />
+  <node id='-414705' visible='true' lat='31.1480545' lon='121.5776116' />
+  <node id='-414704' visible='true' lat='31.1474061' lon='121.5708307'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414700' visible='true' lat='31.1476718' lon='121.5715454' />
+  <node id='-414699' visible='true' lat='31.1481' lon='121.575443' />
+  <node id='-414696' visible='true' lat='31.1626055' lon='121.5855939' />
+  <node id='-414695' visible='true' lat='31.1625001' lon='121.5853464'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414686' visible='true' lat='31.1460356' lon='121.5815928' />
+  <node id='-414685' visible='true' lat='31.1462602' lon='121.5820858' />
+  <node id='-414684' visible='true' lat='31.1466482' lon='121.5853125' />
+  <node id='-414682' visible='true' lat='31.1452754' lon='121.5808949' />
+  <node id='-414681' visible='true' lat='31.1465727' lon='121.5834167' />
+  <node id='-414679' visible='true' lat='31.1464947' lon='121.5829607' />
+  <node id='-414678' visible='true' lat='31.1466436' lon='121.5851971' />
+  <node id='-414676' visible='true' lat='31.1465471' lon='121.5832418' />
+  <node id='-414675' visible='true' lat='31.146155' lon='121.5817778' />
+  <node id='-414662' visible='true' lat='31.1485303' lon='121.5981385' />
+  <node id='-414661' visible='true' lat='31.1492054' lon='121.5994316' />
+  <node id='-414660' visible='true' lat='31.1476212' lon='121.5963521' />
+  <node id='-414659' visible='true' lat='31.1492903' lon='121.5995711' />
+  <node id='-414658' visible='true' lat='31.1490146' lon='121.5990558' />
+  <node id='-414657' visible='true' lat='31.1484678' lon='121.5980246' />
+  <node id='-414656' visible='true' lat='31.1490858' lon='121.5991846' />
+  <node id='-414655' visible='true' lat='31.149513' lon='121.5999868' />
+  <node id='-414653' visible='true' lat='31.1495956' lon='121.6001397' />
+  <node id='-414651' visible='true' lat='31.1474605' lon='121.5957433' />
+  <node id='-414650' visible='true' lat='31.1477521' lon='121.5966526' />
+  <node id='-414649' visible='true' lat='31.1473044' lon='121.5950352' />
+  <node id='-414648' visible='true' lat='31.1481771' lon='121.5974682' />
+  <node id='-414647' visible='true' lat='31.1482458' lon='121.5976291' />
+  <node id='-414646' visible='true' lat='31.1474927' lon='121.5959123' />
+  <node id='-414642' visible='true' lat='31.1479885' lon='121.5970763' />
+  <node id='-414640' visible='true' lat='31.1470109' lon='121.5926456' />
+  <node id='-414638' visible='true' lat='31.1467583' lon='121.5891748' />
+  <node id='-414637' visible='true' lat='31.1500278' lon='121.5941462' />
+  <node id='-414617' visible='true' lat='31.1484439' lon='121.5896994' />
+  <node id='-414615' visible='true' lat='31.148692' lon='121.5889037' />
+  <node id='-414614' visible='true' lat='31.1515529' lon='121.5905623' />
+  <node id='-414612' visible='true' lat='31.1553082' lon='121.5885454' />
+  <node id='-414610' visible='true' lat='31.15073' lon='121.5887772' />
+  <node id='-414609' visible='true' lat='31.1518257' lon='121.5991062' />
+  <node id='-414608' visible='true' lat='31.1504403' lon='121.5915943' />
+  <node id='-414607' visible='true' lat='31.1585938' lon='121.5869686'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414606' visible='true' lat='31.1514641' lon='121.5891245' />
+  <node id='-414605' visible='true' lat='31.1504704' lon='121.5885655' />
+  <node id='-414604' visible='true' lat='31.1492309' lon='121.5922742' />
+  <node id='-414602' visible='true' lat='31.150507' lon='121.594551' />
+  <node id='-414601' visible='true' lat='31.1485835' lon='121.5896884'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414600' visible='true' lat='31.1489721' lon='121.5843969' />
+  <node id='-414599' visible='true' lat='31.150222' lon='121.5887924' />
+  <node id='-414598' visible='true' lat='31.146903' lon='121.5907976' />
+  <node id='-414597' visible='true' lat='31.1492042' lon='121.5890993' />
+  <node id='-414596' visible='true' lat='31.1506119' lon='121.588967' />
+  <node id='-414595' visible='true' lat='31.1515742' lon='121.5992099' />
+  <node id='-414594' visible='true' lat='31.1477302' lon='121.5908917' />
+  <node id='-414593' visible='true' lat='31.1515253' lon='121.5893713' />
+  <node id='-414592' visible='true' lat='31.1525907' lon='121.5896706' />
+  <node id='-414591' visible='true' lat='31.149495' lon='121.5925751' />
+  <node id='-414590' visible='true' lat='31.1485875' lon='121.5892811' />
+  <node id='-414588' visible='true' lat='31.1469354' lon='121.5913482' />
+  <node id='-414586' visible='true' lat='31.1551626' lon='121.5883023'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414585' visible='true' lat='31.1484679' lon='121.5911401' />
+  <node id='-414584' visible='true' lat='31.148798' lon='121.5919474' />
+  <node id='-414583' visible='true' lat='31.1510751' lon='121.5892167' />
+  <node id='-414581' visible='true' lat='31.1524683' lon='121.5891916' />
+  <node id='-414580' visible='true' lat='31.1487786' lon='121.5885092' />
+  <node id='-414579' visible='true' lat='31.1531022' lon='121.5894322' />
+  <node id='-414577' visible='true' lat='31.1503941' lon='121.5934623' />
+  <node id='-414576' visible='true' lat='31.1492338' lon='121.5918665' />
+  <node id='-414575' visible='true' lat='31.1479559' lon='121.5906433' />
+  <node id='-414574' visible='true' lat='31.1494863' lon='121.5872293' />
+  <node id='-414572' visible='true' lat='31.1491043' lon='121.5853582' />
+  <node id='-414571' visible='true' lat='31.1488716' lon='121.5890966'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414570' visible='true' lat='31.1501841' lon='121.5883' />
+  <node id='-414569' visible='true' lat='31.1474038' lon='121.5911329' />
+  <node id='-414567' visible='true' lat='31.150011' lon='121.592626' />
+  <node id='-414566' visible='true' lat='31.1483413' lon='121.5907523' />
+  <node id='-414564' visible='true' lat='31.1518592' lon='121.5902354' />
+  <node id='-414563' visible='true' lat='31.1471841' lon='121.5912548' />
+  <node id='-414562' visible='true' lat='31.151874' lon='121.5892071' />
+  <node id='-414561' visible='true' lat='31.1519406' lon='121.5900828' />
+  <node id='-414560' visible='true' lat='31.14947' lon='121.5917171' />
+  <node id='-414559' visible='true' lat='31.148445' lon='121.5918255' />
+  <node id='-414558' visible='true' lat='31.1539835' lon='121.5887681' />
+  <node id='-414557' visible='true' lat='31.151731' lon='121.5997587' />
+  <node id='-414556' visible='true' lat='31.1501593' lon='121.5917976' />
+  <node id='-414555' visible='true' lat='31.1516479' lon='121.5903612'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414554' visible='true' lat='31.15094' lon='121.5889075' />
+  <node id='-414553' visible='true' lat='31.1492908' lon='121.5888082' />
+  <node id='-414551' visible='true' lat='31.150346' lon='121.593995' />
+  <node id='-414550' visible='true' lat='31.1497153' lon='121.5887258' />
+  <node id='-414549' visible='true' lat='31.1479011' lon='121.5917425' />
+  <node id='-414548' visible='true' lat='31.1483392' lon='121.5899681' />
+  <node id='-414547' visible='true' lat='31.1469931' lon='121.5918333' />
+  <node id='-414545' visible='true' lat='31.1489689' lon='121.5917306' />
+  <node id='-414544' visible='true' lat='31.1521106' lon='121.5899876' />
+  <node id='-414543' visible='true' lat='31.1488821' lon='121.5877724' />
+  <node id='-414542' visible='true' lat='31.148314' lon='121.5903755' />
+  <node id='-414541' visible='true' lat='31.1519874' lon='121.5996647' />
+  <node id='-414539' visible='true' lat='31.1485572' lon='121.5902311'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414538' visible='true' lat='31.1498035' lon='121.591928' />
+  <node id='-414537' visible='true' lat='31.1527383' lon='121.5892549' />
+  <node id='-414536' visible='true' lat='31.1485361' lon='121.5899729'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414535' visible='true' lat='31.1469879' lon='121.5920904' />
+  <node id='-414534' visible='true' lat='31.150696' lon='121.5919319' />
+  <node id='-414533' visible='true' lat='31.1504784' lon='121.5926374' />
+  <node id='-414532' visible='true' lat='31.1492659' lon='121.5864911' />
+  <node id='-414530' visible='true' lat='31.1486626' lon='121.5894881'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414529' visible='true' lat='31.1496486' lon='121.5876029' />
+  <node id='-414528' visible='true' lat='31.1496189' lon='121.5922038' />
+  <node id='-414527' visible='true' lat='31.1497148' lon='121.5929357' />
+  <node id='-414526' visible='true' lat='31.1493068' lon='121.5914067' />
+  <node id='-414524' visible='true' lat='31.1495935' lon='121.59011' />
+  <node id='-414522' visible='true' lat='31.1497617' lon='121.5925258' />
+  <node id='-414521' visible='true' lat='31.1486726' lon='121.5914603' />
+  <node id='-414519' visible='true' lat='31.1473439' lon='121.5917736' />
+  <node id='-414518' visible='true' lat='31.1493915' lon='121.5905077' />
+  <node id='-414516' visible='true' lat='31.1512889' lon='121.5906499' />
+  <node id='-414515' visible='true' lat='31.1495914' lon='121.5919403' />
+  <node id='-414514' visible='true' lat='31.1577432' lon='121.5875422' />
+  <node id='-414513' visible='true' lat='31.1521655' lon='121.5893898' />
+  <node id='-414512' visible='true' lat='31.1506425' lon='121.5959655' />
+  <node id='-414511' visible='true' lat='31.1507518' lon='121.5912491' />
+  <node id='-414510' visible='true' lat='31.1481137' lon='121.5904355' />
+  <node id='-414509' visible='true' lat='31.148378' lon='121.5814568' />
+  <node id='-414508' visible='true' lat='31.1488865' lon='121.5861274' />
+  <node id='-414507' visible='true' lat='31.1497143' lon='121.592692'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-414506' visible='true' lat='31.149905' lon='121.5879846' />
+  <node id='-414505' visible='true' lat='31.149032' lon='121.5910166' />
+  <node id='-414503' visible='true' lat='31.1486723' lon='121.5905392' />
+  <node id='-414502' visible='true' lat='31.1510867' lon='121.5911796' />
+  <way id='-414691' visible='true'>
+    <nd ref='-414560' />
+    <nd ref='-414528' />
+    <nd ref='-414507' />
+    <nd ref='-414707' />
+    <nd ref='-414637' />
+    <nd ref='-414706' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414690' action='modify' visible='true'>
+    <nd ref='-414722' />
+    <nd ref='-414682' />
+    <nd ref='-414686' />
+    <nd ref='-414675' />
+    <nd ref='-414685' />
+    <nd ref='-414679' />
+    <nd ref='-414676' />
+    <nd ref='-414681' />
+    <nd ref='-414678' />
+    <nd ref='-414684' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414688' visible='true'>
+    <nd ref='-414684' />
+    <nd ref='-414708' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414673' visible='true'>
+    <nd ref='-414646' />
+    <nd ref='-414660' />
+    <nd ref='-414650' />
+    <nd ref='-414642' />
+    <nd ref='-414648' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414672' visible='true'>
+    <nd ref='-414657' />
+    <nd ref='-414662' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414671' visible='true'>
+    <nd ref='-414651' />
+    <nd ref='-414646' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414670' visible='true'>
+    <nd ref='-414647' />
+    <nd ref='-414657' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414669' visible='true'>
+    <nd ref='-414662' />
+    <nd ref='-414658' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414668' visible='true'>
+    <nd ref='-414656' />
+    <nd ref='-414661' />
+    <nd ref='-414659' />
+    <nd ref='-414655' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414667' visible='true'>
+    <nd ref='-414648' />
+    <nd ref='-414647' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414666' visible='true'>
+    <nd ref='-414720' />
+    <nd ref='-414649' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414665' visible='true'>
+    <nd ref='-414655' />
+    <nd ref='-414653' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414664' visible='true'>
+    <nd ref='-414658' />
+    <nd ref='-414656' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414663' visible='true'>
+    <nd ref='-414649' />
+    <nd ref='-414651' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414645' visible='true'>
+    <nd ref='-414716' />
+    <nd ref='-414717' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414644' visible='true'>
+    <nd ref='-414717' />
+    <nd ref='-414718' />
+    <nd ref='-414719' />
+    <nd ref='-414720' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414643' visible='true'>
+    <nd ref='-414535' />
+    <nd ref='-414715' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414641' visible='true'>
+    <nd ref='-414715' />
+    <nd ref='-414640' />
+    <nd ref='-414716' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414639' visible='true'>
+    <nd ref='-414708' />
+    <nd ref='-414709' />
+    <nd ref='-414710' />
+    <nd ref='-414711' />
+    <nd ref='-414638' />
+    <nd ref='-414712' />
+    <nd ref='-414713' />
+    <nd ref='-414714' />
+    <nd ref='-414598' />
+    <nd ref='-414588' />
+    <nd ref='-414547' />
+    <nd ref='-414535' />
+    <tag k='highway' v='unclassified' />
+    <tag k='oneway' v='no' />
+  </way>
+  <way id='-414636' visible='true'>
+    <nd ref='-414547' />
+    <nd ref='-414519' />
+    <nd ref='-414549' />
+    <nd ref='-414559' />
+    <nd ref='-414584' />
+    <nd ref='-414604' />
+    <nd ref='-414591' />
+    <nd ref='-414527' />
+    <nd ref='-414707' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414635' action='modify' visible='true'>
+    <nd ref='-414704' />
+    <nd ref='-414705' />
+    <nd ref='-414509' />
+    <nd ref='-414508' />
+    <nd ref='-414597' />
+    <nd ref='-414518' />
+    <nd ref='-414522' />
+    <nd ref='-414706' />
+    <nd ref='-414512' />
+    <nd ref='-414595' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='外环高速' />
+    <tag k='name:en' v='Outer Ring Expressway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414634' action='modify' visible='true'>
+    <nd ref='-414609' />
+    <nd ref='-414602' />
+    <nd ref='-414551' />
+    <nd ref='-414567' />
+    <nd ref='-414524' />
+    <nd ref='-414600' />
+    <nd ref='-414699' />
+    <nd ref='-414700' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='外环高速' />
+    <tag k='name:en' v='Outer Ring Expressway' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S20 A20' />
+  </way>
+  <way id='-414633' action='modify' visible='true'>
+    <nd ref='-414612' />
+    <nd ref='-414514' />
+    <nd ref='-414696' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='0' />
+    <tag k='maxspeed' v='80' />
+    <tag k='name' v='罗山路' />
+    <tag k='name:en' v='Luoshan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414632' action='modify' visible='true'>
+    <nd ref='-414695' />
+    <nd ref='-414607' />
+    <nd ref='-414586' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='0' />
+    <tag k='maxspeed' v='80' />
+    <tag k='name' v='罗山路' />
+    <tag k='name:en' v='Luoshan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414631' visible='true'>
+    <nd ref='-414602' />
+    <nd ref='-414577' />
+    <nd ref='-414533' />
+    <nd ref='-414534' />
+    <nd ref='-414502' />
+    <nd ref='-414614' />
+    <nd ref='-414564' />
+    <nd ref='-414544' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414630' visible='true'>
+    <nd ref='-414508' />
+    <nd ref='-414543' />
+    <nd ref='-414580' />
+    <nd ref='-414615' />
+    <nd ref='-414590' />
+    <nd ref='-414617' />
+    <nd ref='-414548' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='name:en' v='Luoshan Rd Exit 14' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414629' visible='true'>
+    <nd ref='-414608' />
+    <nd ref='-414511' />
+    <nd ref='-414516' />
+    <nd ref='-414555' />
+    <nd ref='-414561' />
+    <nd ref='-414544' />
+    <nd ref='-414592' />
+    <nd ref='-414579' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='0' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414628' action='modify' visible='true'>
+    <nd ref='-414558' />
+    <nd ref='-414581' />
+    <nd ref='-414562' />
+    <nd ref='-414606' />
+    <nd ref='-414554' />
+    <nd ref='-414610' />
+    <nd ref='-414605' />
+    <nd ref='-414570' />
+    <nd ref='-414506' />
+    <nd ref='-414529' />
+    <nd ref='-414574' />
+    <nd ref='-414532' />
+    <nd ref='-414572' />
+    <nd ref='-414600' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414627' visible='true'>
+    <nd ref='-414548' />
+    <nd ref='-414510' />
+    <nd ref='-414575' />
+    <nd ref='-414594' />
+    <nd ref='-414569' />
+    <nd ref='-414563' />
+    <nd ref='-414588' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414626' visible='true'>
+    <nd ref='-414548' />
+    <nd ref='-414542' />
+    <nd ref='-414566' />
+    <nd ref='-414585' />
+    <nd ref='-414521' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414625' visible='true'>
+    <nd ref='-414599' />
+    <nd ref='-414550' />
+    <nd ref='-414553' />
+    <nd ref='-414571' />
+    <nd ref='-414530' />
+    <nd ref='-414601' />
+    <nd ref='-414536' />
+    <nd ref='-414539' />
+    <nd ref='-414503' />
+    <nd ref='-414505' />
+    <nd ref='-414526' />
+    <nd ref='-414560' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414624' visible='true'>
+    <nd ref='-414579' />
+    <nd ref='-414612' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='5' />
+    <tag k='name:en' v='Luoshan Rd' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414622' visible='true'>
+    <nd ref='-414558' />
+    <nd ref='-414537' />
+    <nd ref='-414513' />
+    <nd ref='-414593' />
+    <nd ref='-414583' />
+    <nd ref='-414596' />
+    <nd ref='-414599' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414621' visible='true'>
+    <nd ref='-414521' />
+    <nd ref='-414545' />
+    <nd ref='-414576' />
+    <nd ref='-414515' />
+    <nd ref='-414538' />
+    <nd ref='-414556' />
+    <nd ref='-414608' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='2' />
+    <tag k='layer' v='2' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414620' visible='true'>
+    <nd ref='-414541' />
+    <nd ref='-414609' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='外环高速' />
+    <tag k='name:en' v='Outer Ring Expressway' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='S20 A20' />
+  </way>
+  <way id='-414619' visible='true'>
+    <nd ref='-414586' />
+    <nd ref='-414558' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='3' />
+    <tag k='layer' v='0' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='罗山路' />
+    <tag k='name:en' v='Luoshan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-414618' visible='true'>
+    <nd ref='-414595' />
+    <nd ref='-414557' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='motorway' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='外环高速' />
+    <tag k='name:en' v='Outer Ring Expressway' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>

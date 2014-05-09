@@ -1,0 +1,1015 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-281014' visible='true' lat='39.8449445' lon='116.3941909' />
+  <node id='-281005' visible='true' lat='39.8557415' lon='116.4067021' />
+  <node id='-281004' visible='true' lat='39.8559092' lon='116.4061015' />
+  <node id='-281003' visible='true' lat='39.8559103' lon='116.4072194' />
+  <node id='-281002' visible='true' lat='39.855911' lon='116.4079676'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280983' visible='true' lat='39.8460383' lon='116.3946735' />
+  <node id='-280982' visible='true' lat='39.8451245' lon='116.3947181' />
+  <node id='-280981' visible='true' lat='39.8450476' lon='116.3947218' />
+  <node id='-280980' visible='true' lat='39.8449481' lon='116.3947266' />
+  <node id='-280979' visible='true' lat='39.8449499' lon='116.3945586' />
+  <node id='-280960' visible='true' lat='39.8449479' lon='116.3940598' />
+  <node id='-280959' visible='true' lat='39.8450405' lon='116.3940553' />
+  <node id='-280764' visible='true' lat='39.8528888' lon='116.3940453'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280762' visible='true' lat='39.8547944' lon='116.3945041' />
+  <node id='-280760' visible='true' lat='39.8553663' lon='116.3921783' />
+  <node id='-280759' visible='true' lat='39.8565466' lon='116.3933484' />
+  <node id='-280758' visible='true' lat='39.854853' lon='116.3947741' />
+  <node id='-280757' visible='true' lat='39.8528811' lon='116.3956931'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280756' visible='true' lat='39.8553686' lon='116.3925411' />
+  <node id='-280755' visible='true' lat='39.8565607' lon='116.393216' />
+  <node id='-280752' visible='true' lat='39.8554614' lon='116.3999158' />
+  <node id='-280748' visible='true' lat='39.8571049' lon='116.3941382' />
+  <node id='-280746' visible='true' lat='39.8557392' lon='116.4050335' />
+  <node id='-280744' visible='true' lat='39.8544844' lon='116.3934137' />
+  <node id='-280742' visible='true' lat='39.8556067' lon='116.4014613' />
+  <node id='-280740' visible='true' lat='39.8558911' lon='116.3950803' />
+  <node id='-280739' visible='true' lat='39.8578345' lon='116.3943612' />
+  <node id='-280737' visible='true' lat='39.8529715' lon='116.394337'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280734' visible='true' lat='39.8572848' lon='116.3934394' />
+  <node id='-280733' visible='true' lat='39.8555571' lon='116.3882641' />
+  <node id='-280732' visible='true' lat='39.855713' lon='116.38317' />
+  <node id='-280730' visible='true' lat='39.8565368' lon='116.3944537' />
+  <node id='-280728' visible='true' lat='39.8560158' lon='116.3953634' />
+  <node id='-280726' visible='true' lat='39.8555542' lon='116.3869866'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280725' visible='true' lat='39.8540782' lon='116.3936262' />
+  <node id='-280723' visible='true' lat='39.8559806' lon='116.3920746' />
+  <node id='-280722' visible='true' lat='39.8554661' lon='116.3834268' />
+  <node id='-280721' visible='true' lat='39.8554668' lon='116.400863' />
+  <node id='-280719' visible='true' lat='39.8554085' lon='116.3966405'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280716' visible='true' lat='39.852964' lon='116.3940414'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280713' visible='true' lat='39.8554714' lon='116.4029886'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='赵公口桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280712' visible='true' lat='39.8498944' lon='116.3937855' />
+  <node id='-280707' visible='true' lat='39.8557228' lon='116.398596'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280704' visible='true' lat='39.8558444' lon='116.3833289' />
+  <node id='-280703' visible='true' lat='39.8543397' lon='116.3943109' />
+  <node id='-280702' visible='true' lat='39.855701' lon='116.3842903' />
+  <node id='-280695' visible='true' lat='39.8554778' lon='116.405969' />
+  <node id='-280693' visible='true' lat='39.8557239' lon='116.3970765' />
+  <node id='-280692' visible='true' lat='39.8557565' lon='116.3893851'>
+    <tag k='exit_to' v='洋桥;公益东桥;陶然桥' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='25' />
+  </node>
+  <node id='-280690' visible='true' lat='39.8640001' lon='116.3936306'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280688' visible='true' lat='39.85582' lon='116.3886059' />
+  <node id='-280687' visible='true' lat='39.8552832' lon='116.3941615' />
+  <node id='-280686' visible='true' lat='39.8558101' lon='116.3880804' />
+  <node id='-280684' visible='true' lat='39.8558139' lon='116.3863938'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280679' visible='true' lat='39.8555461' lon='116.3878106'>
+    <tag k='exit_to' v='永定门桥;大红门桥' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='24' />
+  </node>
+  <node id='-280677' visible='true' lat='39.8549597' lon='116.394181' />
+  <node id='-280676' visible='true' lat='39.8558755' lon='116.4000828' />
+  <node id='-280674' visible='true' lat='39.8556743' lon='116.386778'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280672' visible='true' lat='39.8556068' lon='116.4066854' />
+  <node id='-280671' visible='true' lat='39.8557229' lon='116.3888413' />
+  <node id='-280670' visible='true' lat='39.8529528' lon='116.3936679'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280667' visible='true' lat='39.8529747' lon='116.3957373'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280664' visible='true' lat='39.8554287' lon='116.3951068' />
+  <node id='-280662' visible='true' lat='39.855366' lon='116.3955933' />
+  <node id='-280661' visible='true' lat='39.8565098' lon='116.3930843' />
+  <node id='-280660' visible='true' lat='39.8556017' lon='116.3888688'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280658' visible='true' lat='39.8528798' lon='116.3957952'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280655' visible='true' lat='39.8566913' lon='116.3944282' />
+  <node id='-280652' visible='true' lat='39.8560322' lon='116.3925292' />
+  <node id='-280648' visible='true' lat='39.8548103' lon='116.3934321' />
+  <node id='-280646' visible='true' lat='39.855443' lon='116.3992394' />
+  <node id='-280643' visible='true' lat='39.8554852' lon='116.4072243' />
+  <node id='-280642' visible='true' lat='39.8584077' lon='116.3934121' />
+  <node id='-280641' visible='true' lat='39.855496' lon='116.3926684' />
+  <node id='-280637' visible='true' lat='39.854649' lon='116.3932532' />
+  <node id='-280636' visible='true' lat='39.8554738' lon='116.4040893' />
+  <node id='-280633' visible='true' lat='39.8559353' lon='116.3955593' />
+  <node id='-280632' visible='true' lat='39.8554154' lon='116.3925651' />
+  <node id='-280629' visible='true' lat='39.8561062' lon='116.3924367' />
+  <node id='-280626' visible='true' lat='39.8556203' lon='116.3894024' />
+  <node id='-280624' visible='true' lat='39.8565632' lon='116.3942907' />
+  <node id='-280622' visible='true' lat='39.8583358' lon='116.3943736' />
+  <node id='-280620' visible='true' lat='39.8552653' lon='116.3940305' />
+  <node id='-280617' visible='true' lat='39.8558578' lon='116.3890412' />
+  <node id='-280616' visible='true' lat='39.8554673' lon='116.3832912' />
+  <node id='-280611' visible='true' lat='39.8555928' lon='116.3987686'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280606' visible='true' lat='39.8548435' lon='116.3942306' />
+  <node id='-280600' visible='true' lat='39.8554187' lon='116.3919306' />
+  <node id='-280599' visible='true' lat='39.8558957' lon='116.3989746'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280597' visible='true' lat='39.8625319' lon='116.3933745' />
+  <node id='-280589' visible='true' lat='39.8555896' lon='116.3938668' />
+  <node id='-280587' visible='true' lat='39.855477' lon='116.3887421' />
+  <node id='-280585' visible='true' lat='39.8554324' lon='116.3891231' />
+  <node id='-280584' visible='true' lat='39.8541298' lon='116.3950949' />
+  <node id='-280581' visible='true' lat='39.8553192' lon='116.3925356' />
+  <node id='-280578' visible='true' lat='39.8557206' lon='116.4014473'>
+    <tag k='exit_to' v='木樨园桥;大红门桥;永定门桥' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='24' />
+  </node>
+  <node id='-280574' visible='true' lat='39.8552589' lon='116.3952929' />
+  <node id='-280573' visible='true' lat='39.8516388' lon='116.3963496'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='海户屯' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280572' visible='true' lat='39.8549519' lon='116.3935602' />
+  <node id='-280571' visible='true' lat='39.8571209' lon='116.3934303' />
+  <node id='-280569' visible='true' lat='39.8556764' lon='116.3865791'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280567' visible='true' lat='39.8528976' lon='116.3943392'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280563' visible='true' lat='39.8552706' lon='116.3951051' />
+  <node id='-280560' visible='true' lat='39.8561037' lon='116.3936608' />
+  <node id='-280559' visible='true' lat='39.8558944' lon='116.3984926' />
+  <node id='-280558' visible='true' lat='39.8528855' lon='116.3939369'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280555' visible='true' lat='39.8566686' lon='116.3942375' />
+  <node id='-280551' visible='true' lat='39.8559409' lon='116.3925397' />
+  <node id='-280550' visible='true' lat='39.8558142' lon='116.3862303'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280547' visible='true' lat='39.8565545' lon='116.3934247' />
+  <node id='-280544' visible='true' lat='39.8575772' lon='116.3934323'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥北' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280541' visible='true' lat='39.8579582' lon='116.3935782' />
+  <node id='-280538' visible='true' lat='39.8546475' lon='116.3934109' />
+  <node id='-280537' visible='true' lat='39.8511063' lon='116.3967429' />
+  <node id='-280535' visible='true' lat='39.864038' lon='116.3941523' />
+  <node id='-280531' visible='true' lat='39.8639701' lon='116.3931189'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280529' visible='true' lat='39.8566421' lon='116.3931229' />
+  <node id='-280528' visible='true' lat='39.8543107' lon='116.3935433' />
+  <node id='-280527' visible='true' lat='39.8556769' lon='116.3882728' />
+  <node id='-280524' visible='true' lat='39.8560163' lon='116.3951061' />
+  <node id='-280520' visible='true' lat='39.8589219' lon='116.3933717' />
+  <node id='-280513' visible='true' lat='39.8555906' lon='116.3985342'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280512' visible='true' lat='39.8541031' lon='116.3950072' />
+  <node id='-280511' visible='true' lat='39.8559378' lon='116.3896528' />
+  <node id='-280510' visible='true' lat='39.8558467' lon='116.3831075' />
+  <node id='-280509' visible='true' lat='39.8555092' lon='116.3890888' />
+  <node id='-280506' visible='true' lat='39.8529608' lon='116.3939333'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280503' visible='true' lat='39.8564578' lon='116.3941448' />
+  <node id='-280502' visible='true' lat='39.8554229' lon='116.3907406' />
+  <node id='-280501' visible='true' lat='39.8558923' lon='116.3979967'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280499' visible='true' lat='39.8621767' lon='116.3932109' />
+  <node id='-280497' visible='true' lat='39.8513095' lon='116.3966343' />
+  <node id='-280489' visible='true' lat='39.8556046' lon='116.4050314'>
+    <tag k='exit_to' v='光彩体育馆;景泰桥' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='23' />
+  </node>
+  <node id='-280488' visible='true' lat='39.8554676' lon='116.3981121' />
+  <node id='-280487' visible='true' lat='39.8567299' lon='116.3932194' />
+  <node id='-280486' visible='true' lat='39.8556675' lon='116.3878066' />
+  <node id='-280483' visible='true' lat='39.855246' lon='116.3937064' />
+  <node id='-280481' visible='true' lat='39.8547776' lon='116.3943679' />
+  <node id='-280479' visible='true' lat='39.8558765' lon='116.3995871' />
+  <node id='-280477' visible='true' lat='39.8563742' lon='116.3934926' />
+  <node id='-280476' visible='true' lat='39.8546563' lon='116.3945228' />
+  <node id='-280474' visible='true' lat='39.8552749' lon='116.3923793' />
+  <node id='-280473' visible='true' lat='39.8558342' lon='116.3949759' />
+  <node id='-280472' visible='true' lat='39.8542327' lon='116.3949881' />
+  <node id='-280463' visible='true' lat='39.8528814' lon='116.3938006'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280462' visible='true' lat='39.8568507' lon='116.3942761' />
+  <node id='-280460' visible='true' lat='39.8553382' lon='116.3951352' />
+  <node id='-280459' visible='true' lat='39.8561241' lon='116.3925956' />
+  <node id='-280456' visible='true' lat='39.8561307' lon='116.3941264' />
+  <node id='-280455' visible='true' lat='39.85481' lon='116.3931797' />
+  <node id='-280449' visible='true' lat='39.8547999' lon='116.3935185' />
+  <node id='-280444' visible='true' lat='39.8536253' lon='116.3937709' />
+  <node id='-280443' visible='true' lat='39.8556187' lon='116.3891941' />
+  <node id='-280441' visible='true' lat='39.8561415' lon='116.3950116' />
+  <node id='-280440' visible='true' lat='39.8559099' lon='116.3957772' />
+  <node id='-280439' visible='true' lat='39.8555909' lon='116.3832356' />
+  <node id='-280435' visible='true' lat='39.8616921' lon='116.3932156' />
+  <node id='-280432' visible='true' lat='39.8557225' lon='116.3989936'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280430' visible='true' lat='39.8554977' lon='116.3949718' />
+  <node id='-280428' visible='true' lat='39.8559425' lon='116.3916803' />
+  <node id='-280422' visible='true' lat='39.8529567' lon='116.3937975'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280419' visible='true' lat='39.856122' lon='116.3939907' />
+  <node id='-280418' visible='true' lat='39.8636314' lon='116.3933255' />
+  <node id='-280412' visible='true' lat='39.8554041' lon='116.3959667' />
+  <node id='-280408' visible='true' lat='39.8529678' lon='116.3941683'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280407' visible='true' lat='39.8554892' lon='116.4079157'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280406' visible='true' lat='39.855585' lon='116.3969446'>
+    <tag k='exit_to' v='辅路' />
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <node id='-280404' visible='true' lat='39.8554527' lon='116.3926'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-280400' visible='true' lat='39.855453' lon='116.3884485'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280398' visible='true' lat='39.8528775' lon='116.3936708'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280394' visible='true' lat='39.8554661' lon='116.4005335' />
+  <node id='-280393' visible='true' lat='39.8552404' lon='116.3935378' />
+  <node id='-280392' visible='true' lat='39.855818' lon='116.3979033' />
+  <node id='-280382' visible='true' lat='39.8528926' lon='116.3941719'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280381' visible='true' lat='39.8567447' lon='116.3933457' />
+  <node id='-280379' visible='true' lat='39.854883' lon='116.3946597' />
+  <node id='-280374' visible='true' lat='39.8558169' lon='116.3850455' />
+  <node id='-280373' visible='true' lat='39.8566572' lon='116.393364' />
+  <node id='-280371' visible='true' lat='39.8547788' lon='116.3933147' />
+  <node id='-280369' visible='true' lat='39.8558277' lon='116.3927434' />
+  <node id='-280365' visible='true' lat='39.8547231' lon='116.3942863' />
+  <node id='-280363' visible='true' lat='39.8570928' lon='116.3943907' />
+  <node id='-280362' visible='true' lat='39.8573293' lon='116.3940775' />
+  <node id='-280359' visible='true' lat='39.8545524' lon='116.3943371' />
+  <node id='-280355' visible='true' lat='39.8552637' lon='116.3925638' />
+  <node id='-280354' visible='true' lat='39.8568755' lon='116.3933446' />
+  <node id='-280353' visible='true' lat='39.8557263' lon='116.3938668' />
+  <node id='-280351' visible='true' lat='39.8556721' lon='116.3869771'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280346' visible='true' lat='39.8561045' lon='116.3934937' />
+  <node id='-280342' visible='true' lat='39.8640131' lon='116.3938198'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280341' visible='true' lat='39.8555954' lon='116.3991026'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280337' visible='true' lat='39.8554349' lon='116.3983956'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280336' visible='true' lat='39.8529745' lon='116.3956361'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-280333' visible='true' lat='39.855419' lon='116.3880308' />
+  <node id='-280330' visible='true' lat='39.8632709' lon='116.3931558' />
+  <node id='-280327' visible='true' lat='39.8554113' lon='116.3970596' />
+  <node id='-280326' visible='true' lat='39.855723' lon='116.3983061'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='木樨园桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-280324' visible='true' lat='39.8593979' lon='116.3935141' />
+  <node id='-280320' visible='true' lat='39.8537901' lon='116.3941354' />
+  <node id='-280319' visible='true' lat='39.8558832' lon='116.4040364' />
+  <node id='-280318' visible='true' lat='39.8558704' lon='116.3926117' />
+  <node id='-280313' visible='true' lat='39.8554396' lon='116.3916282' />
+  <node id='-280311' visible='true' lat='39.854487' lon='116.3948887' />
+  <node id='-280308' visible='true' lat='39.8554728' lon='116.3974605' />
+  <way id='-280946' action='modify' visible='true'>
+    <nd ref='-280418' />
+    <nd ref='-280597' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='name:zh' v='永定门外大街' />
+    <tag k='name:zh_pinyin' v='yǒngdìngmén wài dàjiē' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280945' action='modify' visible='true'>
+    <nd ref='-280531' />
+    <nd ref='-280330' />
+    <nd ref='-280499' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280944' visible='true'>
+    <nd ref='-280463' />
+    <nd ref='-281014' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='南苑路' />
+    <tag k='name:zh' v='南苑路' />
+    <tag k='name:zh_pinyin' v='nányuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280943' action='modify' visible='true'>
+    <nd ref='-280394' />
+    <nd ref='-280721' />
+    <nd ref='-280713' />
+    <nd ref='-280636' />
+    <nd ref='-280695' />
+    <nd ref='-280643' />
+    <nd ref='-280407' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280942' visible='true'>
+    <nd ref='-281005' />
+    <nd ref='-280746' />
+    <nd ref='-280578' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280941' action='modify' visible='true'>
+    <nd ref='-281002' />
+    <nd ref='-281003' />
+    <nd ref='-281004' />
+    <nd ref='-280319' />
+    <nd ref='-280676' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280940' action='modify' visible='true'>
+    <nd ref='-280537' />
+    <nd ref='-280497' />
+    <nd ref='-280658' />
+    <nd ref='-280667' />
+    <nd ref='-280584' />
+    <nd ref='-280472' />
+    <tag k='highway' v='tertiary' />
+    <tag k='int_name' v='Dahongmen Lu' />
+    <tag k='name' v='大红门路' />
+    <tag k='name:zh' v='大红门路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280939' visible='true'>
+    <nd ref='-280980' />
+    <nd ref='-280981' />
+    <nd ref='-280982' />
+    <nd ref='-280983' />
+    <nd ref='-280567' />
+    <nd ref='-280737' />
+    <nd ref='-280703' />
+    <nd ref='-280359' />
+    <nd ref='-280365' />
+    <nd ref='-280606' />
+    <nd ref='-280677' />
+    <nd ref='-280687' />
+    <tag k='highway' v='tertiary' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280938' visible='true'>
+    <nd ref='-280979' />
+    <nd ref='-280382' />
+    <nd ref='-280408' />
+    <nd ref='-280320' />
+    <nd ref='-280620' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='南苑路' />
+    <tag k='name:zh' v='南苑路' />
+    <tag k='name:zh_pinyin' v='nányuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280933' visible='true'>
+    <nd ref='-280744' />
+    <nd ref='-280528' />
+    <nd ref='-280725' />
+    <nd ref='-280670' />
+    <nd ref='-280398' />
+    <nd ref='-280712' />
+    <nd ref='-280959' />
+    <nd ref='-280960' />
+    <tag k='highway' v='tertiary' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280932' action='modify' visible='true'>
+    <nd ref='-280462' />
+    <nd ref='-280363' />
+    <nd ref='-280739' />
+    <nd ref='-280622' />
+    <nd ref='-280535' />
+    <tag k='highway' v='tertiary' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280931' action='modify' visible='true'>
+    <nd ref='-280456' />
+    <nd ref='-280503' />
+    <nd ref='-280555' />
+    <nd ref='-280462' />
+    <nd ref='-280748' />
+    <nd ref='-280362' />
+    <nd ref='-280342' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280930' action='modify' visible='true'>
+    <nd ref='-280419' />
+    <nd ref='-280690' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='name:zh' v='永定门外大街' />
+    <tag k='name:zh_pinyin' v='yǒngdìngmén wài dàjiē' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280925' visible='true'>
+    <nd ref='-280346' />
+    <nd ref='-280393' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='木樨园桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280923' visible='true'>
+    <nd ref='-280559' />
+    <nd ref='-280501' />
+    <nd ref='-280440' />
+    <nd ref='-280633' />
+    <nd ref='-280728' />
+    <nd ref='-280655' />
+    <nd ref='-280462' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280918' visible='true'>
+    <nd ref='-280578' />
+    <nd ref='-280432' />
+    <nd ref='-280707' />
+    <nd ref='-280326' />
+    <nd ref='-280693' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280914' visible='true'>
+    <nd ref='-280757' />
+    <nd ref='-280658' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280909' visible='true'>
+    <nd ref='-280587' />
+    <nd ref='-280585' />
+    <nd ref='-280502' />
+    <nd ref='-280313' />
+    <nd ref='-280600' />
+    <nd ref='-280760' />
+    <nd ref='-280474' />
+    <nd ref='-280637' />
+    <nd ref='-280744' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280908' visible='true'>
+    <nd ref='-280394' />
+    <nd ref='-280742' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280907' visible='true'>
+    <nd ref='-280693' />
+    <nd ref='-280353' />
+    <nd ref='-280692' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280906' visible='true'>
+    <nd ref='-280509' />
+    <nd ref='-280641' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='3' />
+    <tag k='note' v='there&apos;s an iron bar in this section, causing maxheight=3' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280902' visible='true'>
+    <nd ref='-280676' />
+    <nd ref='-280479' />
+    <nd ref='-280599' />
+    <nd ref='-280559' />
+    <nd ref='-280392' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280900' visible='true'>
+    <nd ref='-280620' />
+    <nd ref='-280419' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='int_name' v='Muxiyuan Qiao' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='木樨园桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280896' visible='true'>
+    <nd ref='-280541' />
+    <nd ref='-280560' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='name:zh' v='永定门外大街' />
+    <tag k='name:zh_pinyin' v='yǒngdìngmén wài dàjiē' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280895' visible='true'>
+    <nd ref='-280702' />
+    <nd ref='-280732' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280890' visible='true'>
+    <nd ref='-280597' />
+    <nd ref='-280499' />
+    <tag k='highway' v='primary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280889' visible='true'>
+    <nd ref='-280679' />
+    <nd ref='-280733' />
+    <nd ref='-280660' />
+    <nd ref='-280443' />
+    <nd ref='-280626' />
+    <nd ref='-280589' />
+    <nd ref='-280406' />
+    <nd ref='-280513' />
+    <nd ref='-280611' />
+    <nd ref='-280341' />
+    <nd ref='-280742' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280888' visible='true'>
+    <nd ref='-280439' />
+    <nd ref='-280726' />
+    <nd ref='-280679' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280884' visible='true'>
+    <nd ref='-280483' />
+    <nd ref='-280444' />
+    <nd ref='-280422' />
+    <nd ref='-280463' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='南苑路' />
+    <tag k='name:zh' v='南苑路' />
+    <tag k='name:zh_pinyin' v='nányuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280882' visible='true'>
+    <nd ref='-280369' />
+    <nd ref='-280318' />
+    <nd ref='-280551' />
+    <nd ref='-280652' />
+    <nd ref='-280459' />
+    <nd ref='-280661' />
+    <nd ref='-280755' />
+    <nd ref='-280759' />
+    <nd ref='-280477' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280880' visible='true'>
+    <nd ref='-280642' />
+    <nd ref='-280541' />
+    <tag k='highway' v='primary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280879' visible='true'>
+    <nd ref='-280499' />
+    <nd ref='-280435' />
+    <nd ref='-280520' />
+    <nd ref='-280642' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280875' visible='true'>
+    <nd ref='-280354' />
+    <nd ref='-280487' />
+    <nd ref='-280529' />
+    <nd ref='-280629' />
+    <nd ref='-280723' />
+    <nd ref='-280428' />
+    <nd ref='-280511' />
+    <nd ref='-280617' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280873' visible='true'>
+    <nd ref='-280374' />
+    <nd ref='-280702' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280872' visible='true'>
+    <nd ref='-280597' />
+    <nd ref='-280324' />
+    <nd ref='-280541' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='name:zh' v='永定门外大街' />
+    <tag k='name:zh_pinyin' v='yǒngdìngmén wài dàjiē' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280871' visible='true'>
+    <nd ref='-280688' />
+    <nd ref='-280686' />
+    <nd ref='-280684' />
+    <nd ref='-280550' />
+    <nd ref='-280374' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280869' visible='true'>
+    <nd ref='-280725' />
+    <nd ref='-280444' />
+    <tag k='highway' v='primary_link' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='landsat' />
+  </way>
+  <way id='-280868' action='modify' visible='true'>
+    <nd ref='-280473' />
+    <nd ref='-280369' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='3' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280865' visible='true'>
+    <nd ref='-280742' />
+    <nd ref='-280489' />
+    <nd ref='-280672' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280860' visible='true'>
+    <nd ref='-280374' />
+    <nd ref='-280704' />
+    <nd ref='-280510' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280857' visible='true'>
+    <nd ref='-280503' />
+    <nd ref='-280624' />
+    <nd ref='-280730' />
+    <nd ref='-280441' />
+    <nd ref='-280524' />
+    <nd ref='-280740' />
+    <nd ref='-280473' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280847' action='modify' visible='true'>
+    <nd ref='-280400' />
+    <nd ref='-280587' />
+    <nd ref='-280509' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280845' visible='true'>
+    <nd ref='-280616' />
+    <nd ref='-280722' />
+    <nd ref='-280333' />
+    <nd ref='-280400' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280842' visible='true'>
+    <nd ref='-280398' />
+    <nd ref='-280463' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280840' visible='true'>
+    <nd ref='-280489' />
+    <nd ref='-280695' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280838' visible='true'>
+    <nd ref='-280578' />
+    <nd ref='-280676' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280837' visible='true'>
+    <nd ref='-280692' />
+    <nd ref='-280671' />
+    <nd ref='-280527' />
+    <nd ref='-280486' />
+    <nd ref='-280351' />
+    <nd ref='-280674' />
+    <nd ref='-280569' />
+    <nd ref='-280702' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280835' visible='true'>
+    <nd ref='-280757' />
+    <nd ref='-280573' />
+    <tag k='highway' v='tertiary' />
+    <tag k='int_name' v='Dahongmen Lu' />
+    <tag k='name' v='大红门路' />
+    <tag k='name:zh' v='大红门路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280833' visible='true'>
+    <nd ref='-280679' />
+    <nd ref='-280400' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280831' visible='true'>
+    <nd ref='-280392' />
+    <nd ref='-280693' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280830' visible='true'>
+    <nd ref='-280692' />
+    <nd ref='-280688' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280828' visible='true'>
+    <nd ref='-280472' />
+    <nd ref='-280311' />
+    <nd ref='-280758' />
+    <tag k='highway' v='tertiary' />
+    <tag k='int_name' v='Dahongmen Lu' />
+    <tag k='name' v='大红门路' />
+    <tag k='name:zh' v='大红门路' />
+  </way>
+  <way id='-280823' visible='true'>
+    <nd ref='-280667' />
+    <nd ref='-280336' />
+    <nd ref='-280737' />
+    <nd ref='-280408' />
+    <nd ref='-280716' />
+    <nd ref='-280506' />
+    <nd ref='-280422' />
+    <nd ref='-280670' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='海户屯路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280822' visible='true'>
+    <nd ref='-280369' />
+    <nd ref='-280617' />
+    <nd ref='-280688' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280807' visible='true'>
+    <nd ref='-280324' />
+    <nd ref='-280520' />
+    <tag k='highway' v='primary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280806' visible='true'>
+    <nd ref='-280572' />
+    <nd ref='-280648' />
+    <nd ref='-280371' />
+    <nd ref='-280455' />
+    <nd ref='-280355' />
+    <nd ref='-280581' />
+    <nd ref='-280756' />
+    <nd ref='-280632' />
+    <nd ref='-280404' />
+    <nd ref='-280641' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280804' visible='true'>
+    <nd ref='-280642' />
+    <nd ref='-280544' />
+    <nd ref='-280734' />
+    <nd ref='-280571' />
+    <nd ref='-280354' />
+    <nd ref='-280381' />
+    <nd ref='-280373' />
+    <nd ref='-280547' />
+    <nd ref='-280477' />
+    <nd ref='-280346' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='永定门外大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280802' visible='true'>
+    <nd ref='-280418' />
+    <nd ref='-280330' />
+    <tag k='highway' v='primary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280801' action='modify' visible='true'>
+    <nd ref='-280641' />
+    <nd ref='-280430' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='3' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280796' visible='true'>
+    <nd ref='-280509' />
+    <nd ref='-280626' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280795' visible='true'>
+    <nd ref='-280393' />
+    <nd ref='-280572' />
+    <nd ref='-280449' />
+    <nd ref='-280538' />
+    <nd ref='-280744' />
+    <tag k='highway' v='tertiary' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280792' visible='true'>
+    <nd ref='-280430' />
+    <nd ref='-280664' />
+    <nd ref='-280460' />
+    <nd ref='-280563' />
+    <nd ref='-280379' />
+    <nd ref='-280762' />
+    <nd ref='-280481' />
+    <nd ref='-280606' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280791' visible='true'>
+    <nd ref='-280320' />
+    <nd ref='-280703' />
+    <nd ref='-280476' />
+    <nd ref='-280758' />
+    <nd ref='-280574' />
+    <nd ref='-280662' />
+    <nd ref='-280412' />
+    <nd ref='-280719' />
+    <nd ref='-280327' />
+    <nd ref='-280308' />
+    <tag k='highway' v='primary_link' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='landsat' />
+  </way>
+  <way id='-280790' visible='true'>
+    <nd ref='-280472' />
+    <nd ref='-280512' />
+    <nd ref='-280336' />
+    <nd ref='-280757' />
+    <tag k='highway' v='tertiary' />
+    <tag k='int_name' v='Dahongmen Lu' />
+    <tag k='name' v='大红门路' />
+    <tag k='name:zh' v='大红门路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280779' visible='true'>
+    <nd ref='-280463' />
+    <nd ref='-280558' />
+    <nd ref='-280764' />
+    <nd ref='-280382' />
+    <nd ref='-280567' />
+    <nd ref='-280757' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='海户屯路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280777' visible='true'>
+    <nd ref='-280560' />
+    <nd ref='-280483' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='primary' />
+    <tag k='int_name' v='Muxiyuan Qiao' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='木樨园桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280775' visible='true'>
+    <nd ref='-280406' />
+    <nd ref='-280308' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280774' visible='true'>
+    <nd ref='-280687' />
+    <nd ref='-280456' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='木樨园桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280772' visible='true'>
+    <nd ref='-280430' />
+    <nd ref='-280308' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280771' visible='true'>
+    <nd ref='-280308' />
+    <nd ref='-280488' />
+    <nd ref='-280337' />
+    <nd ref='-280646' />
+    <nd ref='-280752' />
+    <nd ref='-280394' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='南三环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280769' visible='true'>
+    <nd ref='-280392' />
+    <nd ref='-280473' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='3' />
+    <tag k='note' v='there&apos;s an iron bar in this section, causing maxheight=3' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>

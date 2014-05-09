@@ -1,0 +1,787 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-707651' visible='true' lat='39.9786639' lon='116.347705' />
+  <node id='-707645' visible='true' lat='39.9857424' lon='116.3627355' />
+  <node id='-707644' visible='true' lat='39.9856915' lon='116.3618715' />
+  <node id='-707643' visible='true' lat='39.9856332' lon='116.3592504' />
+  <node id='-707642' visible='true' lat='39.9856056' lon='116.3584104' />
+  <node id='-707641' visible='true' lat='39.9855624' lon='116.3570963' />
+  <node id='-707640' visible='true' lat='39.9858864' lon='116.3624027' />
+  <node id='-707639' visible='true' lat='39.9857391' lon='116.3575959'>
+    <tag k='exit_to' v='志新东路;北太平桥' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='48' />
+  </node>
+  <node id='-707638' visible='true' lat='39.9860139' lon='116.3545147' />
+  <node id='-707637' visible='true' lat='39.9860349' lon='116.3552834' />
+  <node id='-707636' visible='true' lat='39.9858938' lon='116.3575583' />
+  <node id='-707635' visible='true' lat='39.98605' lon='116.3623973' />
+  <node id='-707634' visible='true' lat='39.9859426' lon='116.3545391' />
+  <node id='-707633' visible='true' lat='39.9859555' lon='116.35523' />
+  <node id='-707632' visible='true' lat='39.9860257' lon='116.3560365' />
+  <node id='-707631' visible='true' lat='39.9860983' lon='116.3583414' />
+  <node id='-707630' visible='true' lat='39.9861333' lon='116.3591905' />
+  <node id='-707629' visible='true' lat='39.9861673' lon='116.3618736' />
+  <node id='-707628' visible='true' lat='39.986149' lon='116.3627127' />
+  <node id='-707617' visible='true' lat='39.9850103' lon='116.3354479' />
+  <node id='-707616' visible='true' lat='39.9851704' lon='116.3354395' />
+  <node id='-707492' visible='true' lat='39.9918418' lon='116.3471171'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707489' visible='true' lat='39.9895707' lon='116.3472539'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='成府路口南' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707487' visible='true' lat='39.9851839' lon='116.3479039' />
+  <node id='-707478' visible='true' lat='39.9807584' lon='116.3477172' />
+  <node id='-707477' visible='true' lat='39.9856187' lon='116.3479723' />
+  <node id='-707476' visible='true' lat='39.9813955' lon='116.347674'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京航空航天大学' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707475' visible='true' lat='39.985083' lon='116.342642'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707471' visible='true' lat='39.980089' lon='116.3479154' />
+  <node id='-707466' visible='true' lat='39.9881554' lon='116.3470713' />
+  <node id='-707463' visible='true' lat='39.9887608' lon='116.3468734' />
+  <node id='-707456' visible='true' lat='39.9855082' lon='116.3508531' />
+  <node id='-707455' visible='true' lat='39.985711' lon='116.3469819' />
+  <node id='-707450' visible='true' lat='39.9850142' lon='116.3470879' />
+  <node id='-707447' visible='true' lat='39.985823' lon='116.349788' />
+  <node id='-707445' visible='true' lat='39.9856572' lon='116.3508489' />
+  <node id='-707443' visible='true' lat='39.9851229' lon='116.3468509' />
+  <node id='-707442' visible='true' lat='39.9852932' lon='116.3476867' />
+  <node id='-707440' visible='true' lat='39.9813048' lon='116.3478204'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京航空航天大学' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707433' visible='true' lat='39.9804515' lon='116.3478956' />
+  <node id='-707431' visible='true' lat='39.9854863' lon='116.3393235' />
+  <node id='-707430' visible='true' lat='39.9836115' lon='116.3471524' />
+  <node id='-707424' visible='true' lat='39.9800596' lon='116.3474673' />
+  <node id='-707423' visible='true' lat='39.9855422' lon='116.3418541' />
+  <node id='-707421' visible='true' lat='39.9853012' lon='116.3439853' />
+  <node id='-707420' visible='true' lat='39.9852839' lon='116.3474554'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707419' visible='true' lat='39.9853893' lon='116.3417903' />
+  <node id='-707418' visible='true' lat='39.9877299' lon='116.3469506' />
+  <node id='-707416' visible='true' lat='39.9857205' lon='116.3472161'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707410' visible='true' lat='39.9853598' lon='116.3499394' />
+  <node id='-707409' visible='true' lat='39.9855007' lon='116.3398683' />
+  <node id='-707406' visible='true' lat='39.983231' lon='116.3476505' />
+  <node id='-707404' visible='true' lat='39.9853269' lon='116.3386751'>
+    <tag k='exit_to' v='中关村;中关村东路;中关村大街' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='46' />
+  </node>
+  <node id='-707401' visible='true' lat='39.9853745' lon='116.3507254'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='学院桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707400' visible='true' lat='39.9857348' lon='116.3476537' />
+  <node id='-707394' visible='true' lat='39.9853845' lon='116.3511107'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='学院桥东' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707392' visible='true' lat='39.9853687' lon='116.3505003' />
+  <node id='-707390' visible='true' lat='39.9860149' lon='116.347588' />
+  <node id='-707389' visible='true' lat='39.9855078' lon='116.3401091'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京城市学院' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707388' visible='true' lat='39.9876086' lon='116.3469597' />
+  <node id='-707384' visible='true' lat='39.9855891' lon='116.3470323' />
+  <node id='-707382' visible='true' lat='39.9835043' lon='116.3477167' />
+  <node id='-707381' visible='true' lat='39.9918573' lon='116.3469058'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707380' visible='true' lat='39.9849721' lon='116.3390659' />
+  <node id='-707376' visible='true' lat='39.9855531' lon='116.3423679' />
+  <node id='-707372' visible='true' lat='39.9852837' lon='116.3502278' />
+  <node id='-707370' visible='true' lat='39.9918681' lon='116.3467399'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707369' visible='true' lat='39.9832231' lon='116.3472203' />
+  <node id='-707368' visible='true' lat='39.9854315' lon='116.3381199'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707367' visible='true' lat='39.9838826' lon='116.3477108' />
+  <node id='-707366' visible='true' lat='39.9855792' lon='116.3467163' />
+  <node id='-707364' visible='true' lat='39.9877523' lon='116.3473431' />
+  <node id='-707363' visible='true' lat='39.9811552' lon='116.3475152'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京航空航天大学' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707359' visible='true' lat='39.9837472' lon='116.3473059'>
+    <tag k='exit_to' v='北航' />
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <node id='-707357' visible='true' lat='39.9851479' lon='116.3386877' />
+  <node id='-707356' visible='true' lat='39.9892401' lon='116.3472701'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='成府路口南' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707349' visible='true' lat='39.9851828' lon='116.3451775' />
+  <node id='-707348' visible='true' lat='39.9832129' lon='116.3475234'>
+    <tag k='exit_to' v='辅路' />
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <node id='-707347' visible='true' lat='39.980173' lon='116.3479108' />
+  <node id='-707342' visible='true' lat='39.9857013' lon='116.3445058' />
+  <node id='-707341' visible='true' lat='39.9857224' lon='116.3525887' />
+  <node id='-707339' visible='true' lat='39.9853865' lon='116.3511869' />
+  <node id='-707338' visible='true' lat='39.9858699' lon='116.3478641' />
+  <node id='-707336' visible='true' lat='39.9859107' lon='116.351941' />
+  <node id='-707335' visible='true' lat='39.9849148' lon='116.3382031' />
+  <node id='-707334' visible='true' lat='39.9859752' lon='116.3539016' />
+  <node id='-707332' visible='true' lat='39.9859912' lon='116.3470346' />
+  <node id='-707328' visible='true' lat='39.9903661' lon='116.3473231' />
+  <node id='-707324' visible='true' lat='39.9852662' lon='116.3470154' />
+  <node id='-707321' visible='true' lat='39.9848877' lon='116.3377919' />
+  <node id='-707314' visible='true' lat='39.9849819' lon='116.3394148'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京城市学院' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707312' visible='true' lat='39.9893657' lon='116.3472642'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='成府路口南' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707311' visible='true' lat='39.9839679' lon='116.3472968' />
+  <node id='-707306' visible='true' lat='39.9857256' lon='116.3474406'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707305' visible='true' lat='39.9854083' lon='116.3467163' />
+  <node id='-707304' visible='true' lat='39.9851534' lon='116.3445352' />
+  <node id='-707303' visible='true' lat='39.9850321' lon='116.3476655' />
+  <node id='-707302' visible='true' lat='39.9789936' lon='116.3475336' />
+  <node id='-707300' visible='true' lat='39.985453' lon='116.3479791' />
+  <node id='-707297' visible='true' lat='39.9855232' lon='116.3406796' />
+  <node id='-707295' visible='true' lat='39.9850685' lon='116.3420864'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='学院桥西' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707292' visible='true' lat='39.9869634' lon='116.3471288' />
+  <node id='-707291' visible='true' lat='39.983967' lon='116.3474887' />
+  <node id='-707290' visible='true' lat='39.9894102' lon='116.3469918'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='成府路口南' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707287' visible='true' lat='39.9859525' lon='116.3495947' />
+  <node id='-707283' visible='true' lat='39.9856362' lon='116.3451442' />
+  <node id='-707277' visible='true' lat='39.9854071' lon='116.3519791' />
+  <node id='-707275' visible='true' lat='39.9855499' lon='116.352567' />
+  <node id='-707270' visible='true' lat='39.9854679' lon='116.3439757' />
+  <node id='-707269' visible='true' lat='39.9849763' lon='116.3392198'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京城市学院' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707266' visible='true' lat='39.9850569' lon='116.3416424' />
+  <node id='-707264' visible='true' lat='39.9872666' lon='116.3475092' />
+  <node id='-707263' visible='true' lat='39.9918337' lon='116.347268'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-707260' visible='true' lat='39.9856109' lon='116.3444762' />
+  <node id='-707257' visible='true' lat='39.9854945' lon='116.3396673'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='北京城市学院' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-707254' visible='true' lat='39.9850593' lon='116.3448664' />
+  <node id='-707250' visible='true' lat='39.9789736' lon='116.3478091'>
+    <tag k='exit_to' v='花园北路;北医三院' />
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <node id='-707248' visible='true' lat='39.9852094' lon='116.3418289'>
+    <tag k='exit_to' v='学院路;蓟门桥' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='47' />
+  </node>
+  <node id='-707246' visible='true' lat='39.9858175' lon='116.3495688' />
+  <node id='-707242' visible='true' lat='39.9854735' lon='116.3389635' />
+  <node id='-707241' visible='true' lat='39.9856054' lon='116.3442196' />
+  <node id='-707234' visible='true' lat='39.9869736' lon='116.3473814' />
+  <node id='-707227' visible='true' lat='39.990653' lon='116.3471834' />
+  <node id='-707224' visible='true' lat='39.9857916' lon='116.3467948' />
+  <node id='-707222' visible='true' lat='39.9852754' lon='116.347244'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <way id='-707599' action='modify' visible='true'>
+    <nd ref='-707250' />
+    <nd ref='-707478' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707598' action='modify' visible='true'>
+    <nd ref='-707450' />
+    <nd ref='-707430' />
+    <nd ref='-707369' />
+    <nd ref='-707424' />
+    <nd ref='-707302' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='学院路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707597' action='modify' visible='true'>
+    <nd ref='-707311' />
+    <nd ref='-707359' />
+    <nd ref='-707363' />
+    <nd ref='-707651' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707596' visible='true'>
+    <nd ref='-707639' />
+    <nd ref='-707642' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707595' visible='true'>
+    <nd ref='-707631' />
+    <nd ref='-707636' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707594' action='modify' visible='true'>
+    <nd ref='-707277' />
+    <nd ref='-707641' />
+    <nd ref='-707642' />
+    <nd ref='-707643' />
+    <nd ref='-707644' />
+    <nd ref='-707645' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707593' visible='true'>
+    <nd ref='-707275' />
+    <nd ref='-707639' />
+    <nd ref='-707640' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707592' visible='true'>
+    <nd ref='-707632' />
+    <nd ref='-707637' />
+    <nd ref='-707638' />
+    <nd ref='-707334' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707591' visible='true'>
+    <nd ref='-707635' />
+    <nd ref='-707636' />
+    <nd ref='-707341' />
+    <nd ref='-707445' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707590' action='modify' visible='true'>
+    <nd ref='-707628' />
+    <nd ref='-707629' />
+    <nd ref='-707630' />
+    <nd ref='-707631' />
+    <nd ref='-707632' />
+    <nd ref='-707633' />
+    <nd ref='-707634' />
+    <nd ref='-707334' />
+    <nd ref='-707336' />
+    <nd ref='-707447' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707589' visible='true'>
+    <nd ref='-707617' />
+    <nd ref='-707357' />
+    <nd ref='-707248' />
+    <nd ref='-707421' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707588' visible='true'>
+    <nd ref='-707270' />
+    <nd ref='-707419' />
+    <nd ref='-707404' />
+    <nd ref='-707616' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707587' action='modify' visible='true'>
+    <nd ref='-707264' />
+    <nd ref='-707328' />
+    <nd ref='-707263' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='name:fr' v='Route Xuéyuàn' />
+    <tag k='name:zh' v='学院路' />
+    <tag k='name:zh_pinyin' v='xuéyuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707586' action='modify' visible='true'>
+    <nd ref='-707370' />
+    <nd ref='-707463' />
+    <nd ref='-707418' />
+    <nd ref='-707388' />
+    <nd ref='-707332' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='name:fr' v='Route Xuéyuàn' />
+    <tag k='name:zh' v='学院路' />
+    <tag k='name:zh_pinyin' v='xuéyuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707585' action='modify' visible='true'>
+    <nd ref='-707381' />
+    <nd ref='-707290' />
+    <nd ref='-707466' />
+    <nd ref='-707292' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='name:fr' v='Route Xuéyuàn' />
+    <tag k='name:zh' v='学院路' />
+    <tag k='name:zh_pinyin' v='xuéyuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707584' visible='true'>
+    <nd ref='-707304' />
+    <nd ref='-707254' />
+    <nd ref='-707443' />
+    <nd ref='-707450' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707583' visible='true'>
+    <nd ref='-707421' />
+    <nd ref='-707305' />
+    <nd ref='-707300' />
+    <nd ref='-707456' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='2' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707582' visible='true'>
+    <nd ref='-707283' />
+    <nd ref='-707260' />
+    <nd ref='-707241' />
+    <nd ref='-707376' />
+    <nd ref='-707423' />
+    <nd ref='-707297' />
+    <nd ref='-707389' />
+    <nd ref='-707409' />
+    <nd ref='-707257' />
+    <nd ref='-707431' />
+    <nd ref='-707242' />
+    <nd ref='-707368' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707581' visible='true'>
+    <nd ref='-707359' />
+    <nd ref='-707369' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707577' visible='true'>
+    <nd ref='-707456' />
+    <nd ref='-707275' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707576' visible='true'>
+    <nd ref='-707306' />
+    <nd ref='-707416' />
+    <nd ref='-707455' />
+    <nd ref='-707283' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707575' visible='true'>
+    <nd ref='-707447' />
+    <nd ref='-707246' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707573' visible='true'>
+    <nd ref='-707224' />
+    <nd ref='-707443' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='2.5' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707572' visible='true'>
+    <nd ref='-707420' />
+    <nd ref='-707442' />
+    <nd ref='-707410' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707571' visible='true'>
+    <nd ref='-707390' />
+    <nd ref='-707332' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='2.5' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707569' visible='true'>
+    <nd ref='-707376' />
+    <nd ref='-707419' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707566' visible='true'>
+    <nd ref='-707234' />
+    <nd ref='-707364' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='name:fr' v='Route Xuéyuàn' />
+    <tag k='name:zh' v='学院路' />
+    <tag k='name:zh_pinyin' v='xuéyuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707564' visible='true'>
+    <nd ref='-707390' />
+    <nd ref='-707264' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='name:fr' v='Route Xuéyuàn' />
+    <tag k='name:zh' v='学院路' />
+    <tag k='name:zh_pinyin' v='xuéyuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707561' visible='true'>
+    <nd ref='-707410' />
+    <nd ref='-707392' />
+    <nd ref='-707401' />
+    <nd ref='-707394' />
+    <nd ref='-707339' />
+    <nd ref='-707277' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707559' visible='true'>
+    <nd ref='-707349' />
+    <nd ref='-707324' />
+    <nd ref='-707222' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707557' visible='true'>
+    <nd ref='-707416' />
+    <nd ref='-707222' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='1' />
+    <tag k='maxheight' v='4' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707552' visible='true'>
+    <nd ref='-707447' />
+    <nd ref='-707287' />
+    <nd ref='-707338' />
+    <nd ref='-707390' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707551' visible='true'>
+    <nd ref='-707404' />
+    <nd ref='-707368' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707547' visible='true'>
+    <nd ref='-707306' />
+    <nd ref='-707234' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707546' visible='true'>
+    <nd ref='-707222' />
+    <nd ref='-707420' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707544' visible='true'>
+    <nd ref='-707328' />
+    <nd ref='-707227' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707541' visible='true'>
+    <nd ref='-707246' />
+    <nd ref='-707400' />
+    <nd ref='-707306' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707539' visible='true'>
+    <nd ref='-707445' />
+    <nd ref='-707477' />
+    <nd ref='-707384' />
+    <nd ref='-707366' />
+    <nd ref='-707270' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='trunk' />
+    <tag k='lanes' v='4' />
+    <tag k='layer' v='2' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707538' visible='true'>
+    <nd ref='-707420' />
+    <nd ref='-707306' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='1' />
+    <tag k='maxheight' v='4' />
+    <tag k='name' v='学院桥' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707534' visible='true'>
+    <nd ref='-707292' />
+    <nd ref='-707416' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707533' visible='true'>
+    <nd ref='-707487' />
+    <nd ref='-707338' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='2.5' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707531' visible='true'>
+    <nd ref='-707433' />
+    <nd ref='-707440' />
+    <nd ref='-707406' />
+    <nd ref='-707382' />
+    <nd ref='-707367' />
+    <nd ref='-707303' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='学院路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707530' visible='true'>
+    <nd ref='-707222' />
+    <nd ref='-707311' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707529' visible='true'>
+    <nd ref='-707341' />
+    <nd ref='-707336' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707528' visible='true'>
+    <nd ref='-707324' />
+    <nd ref='-707455' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='layer' v='1' />
+    <tag k='maxheight' v='4' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707527' visible='true'>
+    <nd ref='-707466' />
+    <nd ref='-707418' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707525' visible='true'>
+    <nd ref='-707277' />
+    <nd ref='-707275' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707524' visible='true'>
+    <nd ref='-707321' />
+    <nd ref='-707335' />
+    <nd ref='-707380' />
+    <nd ref='-707269' />
+    <nd ref='-707314' />
+    <nd ref='-707266' />
+    <nd ref='-707295' />
+    <nd ref='-707475' />
+    <nd ref='-707304' />
+    <nd ref='-707349' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='北四环中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707520' visible='true'>
+    <nd ref='-707332' />
+    <nd ref='-707224' />
+    <nd ref='-707342' />
+    <nd ref='-707241' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707519' visible='true'>
+    <nd ref='-707264' />
+    <nd ref='-707364' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707515' visible='true'>
+    <nd ref='-707248' />
+    <nd ref='-707475' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707514' visible='true'>
+    <nd ref='-707471' />
+    <nd ref='-707347' />
+    <nd ref='-707433' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='学院路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707512' visible='true'>
+    <nd ref='-707400' />
+    <nd ref='-707442' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='layer' v='1' />
+    <tag k='maxheight' v='4' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707511' visible='true'>
+    <nd ref='-707348' />
+    <nd ref='-707367' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707509' visible='true'>
+    <nd ref='-707478' />
+    <nd ref='-707476' />
+    <nd ref='-707348' />
+    <nd ref='-707291' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707507' visible='true'>
+    <nd ref='-707321' />
+    <nd ref='-707357' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707506' visible='true'>
+    <nd ref='-707433' />
+    <nd ref='-707478' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707504' visible='true'>
+    <nd ref='-707450' />
+    <nd ref='-707303' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='maxheight' v='2.5' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707503' action='modify' visible='true'>
+    <nd ref='-707364' />
+    <nd ref='-707356' />
+    <nd ref='-707312' />
+    <nd ref='-707489' />
+    <nd ref='-707227' />
+    <nd ref='-707492' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='name:fr' v='Route Xuéyuàn' />
+    <tag k='name:zh' v='学院路' />
+    <tag k='name:zh_pinyin' v='xuéyuàn lù' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707502' visible='true'>
+    <nd ref='-707303' />
+    <nd ref='-707487' />
+    <nd ref='-707372' />
+    <nd ref='-707392' />
+    <tag k='highway' v='tertiary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-707500' visible='true'>
+    <nd ref='-707291' />
+    <nd ref='-707420' />
+    <tag k='bridge' v='yes' />
+    <tag k='highway' v='secondary' />
+    <tag k='layer' v='1' />
+    <tag k='name' v='学院路' />
+    <tag k='name:en' v='Xueyuan Road' />
+    <tag k='oneway' v='yes' />
+  </way>
+</osm>
