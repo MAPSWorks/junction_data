@@ -1,653 +1,266 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-281911' action='modify' visible='true' lat='39.921873105162014' lon='116.34382748936929' />
-  <node id='-281909' action='modify' visible='true' lat='39.92234998892124' lon='116.34493430710341' />
-  <node id='-281386' visible='true' lat='39.9233253' lon='116.3493746' />
-  <node id='-281383' visible='true' lat='39.9229504' lon='116.3493606' />
-  <node id='-281378' visible='true' lat='39.9267125' lon='116.3501278' />
-  <node id='-281374' visible='true' lat='39.9248965' lon='116.3496564' />
-  <node id='-281372' visible='true' lat='39.9233594' lon='116.3506602' />
-  <node id='-281370' visible='true' lat='39.9222556' lon='116.3508533' />
-  <node id='-281369' visible='true' lat='39.9224102' lon='116.348301'>
+  <node id='-316550' action='modify' visible='true' lat='39.92682229967965' lon='116.34980078539596' />
+  <node id='-344' action='modify' visible='true' lat='39.91877189652055' lon='116.35045948362117' />
+  <node id='-242' visible='true' lat='39.9234807' lon='116.3496896' />
+  <node id='-238' visible='true' lat='39.9249192' lon='116.3502048' />
+  <node id='-234' visible='true' lat='39.9222812' lon='116.3501703' />
+  <node id='-232' visible='true' lat='39.9210291' lon='116.3497807' />
+  <node id='-230' visible='true' lat='39.9196599' lon='116.3502497' />
+  <node id='-228' visible='true' lat='39.9220038' lon='116.3479805'>
     <tag k='crossing' v='uncontrolled' />
     <tag k='highway' v='crossing' />
   </node>
-  <node id='-281355' visible='true' lat='39.9203199' lon='116.3504961' />
-  <node id='-281353' visible='true' lat='39.9221712' lon='116.3432281' />
-  <node id='-281346' visible='true' lat='39.9234539' lon='116.3505504' />
-  <node id='-281344' visible='true' lat='39.9209125' lon='116.350768' />
-  <node id='-281340' visible='true' lat='39.920118' lon='116.3502445'>
-    <tag k='highway' v='motorway_junction' />
-    <tag k='ref' v='30' />
-  </node>
-  <node id='-281334' visible='true' lat='39.921902' lon='116.3403827' />
-  <node id='-281331' visible='true' lat='39.9234815' lon='116.3503575' />
-  <node id='-281326' visible='true' lat='39.9219841' lon='116.3469947'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281322' visible='true' lat='39.9210381' lon='116.3506368' />
-  <node id='-281321' visible='true' lat='39.9211906' lon='116.3494623' />
-  <node id='-281320' visible='true' lat='39.9220833' lon='116.3493967' />
-  <node id='-281316' visible='true' lat='39.9220152' lon='116.3483255' />
-  <node id='-281315' visible='true' lat='39.9222891' lon='116.3521062' />
-  <node id='-281314' visible='true' lat='39.9223987' lon='116.3529087'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门内' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281311' visible='true' lat='39.9242454' lon='116.3497334' />
-  <node id='-281310' visible='true' lat='39.9210712' lon='116.3495366' />
-  <node id='-281307' visible='true' lat='39.9240241' lon='116.3496546' />
-  <node id='-281303' visible='true' lat='39.9234128' lon='116.3502687' />
-  <node id='-281302' visible='true' lat='39.923393' lon='116.3493225' />
-  <node id='-281301' visible='true' lat='39.9210079' lon='116.3494523' />
-  <node id='-281292' visible='true' lat='39.9231856' lon='116.3507344'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门内' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281290' visible='true' lat='39.9232644' lon='116.3494119' />
-  <node id='-281282' visible='true' lat='39.9210407' lon='116.3508084' />
-  <node id='-281280' visible='true' lat='39.9222675' lon='116.348349'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281279' visible='true' lat='39.9243115' lon='116.3499051'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门北' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281278' visible='true' lat='39.9222513' lon='116.3507058' />
-  <node id='-281273' visible='true' lat='39.9221415' lon='116.3483751'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281263' visible='true' lat='39.9223359' lon='116.3497325' />
-  <node id='-281262' visible='true' lat='39.9238634' lon='116.350251' />
-  <node id='-281256' visible='true' lat='39.9190778' lon='116.3499757' />
-  <node id='-281251' visible='true' lat='39.922118' lon='116.3469877'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281245' visible='true' lat='39.9234247' lon='116.3494422' />
-  <node id='-281238' visible='true' lat='39.9223649' lon='116.3509813' />
-  <node id='-281235' visible='true' lat='39.9198896' lon='116.3504375' />
-  <node id='-281231' visible='true' lat='39.9224157' lon='116.3540106'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281228' visible='true' lat='39.9212334' lon='116.3508207' />
-  <node id='-281220' visible='true' lat='39.9224419' lon='116.350766'>
-    <tag k='crossing' v='uncontrolled' />
-    <tag k='highway' v='crossing' />
-  </node>
-  <node id='-281219' visible='true' lat='39.9210369' lon='116.3496037' />
-  <node id='-281218' visible='true' lat='39.921496' lon='116.3494469' />
-  <node id='-281215' visible='true' lat='39.9239818' lon='116.3495515' />
-  <node id='-281214' visible='true' lat='39.9277429' lon='116.3499229'>
-    <tag k='exit_to' v='官园桥;车公庄;平安里' />
-    <tag k='highway' v='motorway_junction' />
-    <tag k='ref' v='31' />
-  </node>
-  <node id='-281213' visible='true' lat='39.9223866' lon='116.3521626'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门内' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281212' visible='true' lat='39.9223689' lon='116.351112' />
-  <node id='-281211' visible='true' lat='39.9226722' lon='116.3507609'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门内' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281210' visible='true' lat='39.9222536' lon='116.3507781' />
-  <node id='-281203' visible='true' lat='39.9230568' lon='116.3493794' />
-  <node id='-281201' visible='true' lat='39.9222417' lon='116.3504029' />
-  <node id='-281199' visible='true' lat='39.9226084' lon='116.3494365' />
-  <node id='-281195' visible='true' lat='39.9253304' lon='116.3496354' />
-  <node id='-281194' visible='true' lat='39.9219786' lon='116.3468835'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281188' visible='true' lat='39.9211329' lon='116.3508741' />
-  <node id='-281182' visible='true' lat='39.9234335' lon='116.3497946' />
-  <node id='-281178' visible='true' lat='39.9223491' lon='116.350402' />
-  <node id='-281177' visible='true' lat='39.9208881' lon='116.3508153' />
-  <node id='-281172' visible='true' lat='39.9203531' lon='116.3504258' />
-  <node id='-281171' visible='true' lat='39.9211299' lon='116.3508195' />
-  <node id='-281165' visible='true' lat='39.9219483' lon='116.3480553'>
-    <tag k='amenity' v='fast_food' />
-    <tag k='name' v='KFC' />
-  </node>
-  <node id='-281160' visible='true' lat='39.9223345' lon='116.3493867' />
-  <node id='-281157' visible='true' lat='39.9223529' lon='116.3473334' />
-  <node id='-281152' visible='true' lat='39.9268148' lon='116.3496559' />
-  <node id='-281149' visible='true' lat='39.9210974' lon='116.3503799' />
-  <node id='-281147' visible='true' lat='39.9211203' lon='116.349486' />
-  <node id='-281144' visible='true' lat='39.924543' lon='116.349729'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门北' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281142' visible='true' lat='39.9224021' lon='116.3531295'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门内' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281138' visible='true' lat='39.923519' lon='116.3493676' />
-  <node id='-281137' visible='true' lat='39.9214939' lon='116.3494065' />
-  <node id='-281129' visible='true' lat='39.9242409' lon='116.3500821'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门北' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281128' visible='true' lat='39.9234935' lon='116.3492909' />
-  <node id='-281127' visible='true' lat='39.921186' lon='116.3494113' />
-  <node id='-281115' visible='true' lat='39.9222171' lon='116.3497307' />
-  <node id='-281114' visible='true' lat='39.9185475' lon='116.3506299'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门南' />
-  </node>
-  <node id='-281112' visible='true' lat='39.9225889' lon='116.3493116' />
-  <node id='-281111' visible='true' lat='39.9210845' lon='116.350725' />
-  <node id='-281105' visible='true' lat='39.923493' lon='116.3504607' />
-  <node id='-281103' visible='true' lat='39.924747' lon='116.349724' />
-  <node id='-281098' visible='true' lat='39.9213106' lon='116.3507545' />
-  <node id='-281095' visible='true' lat='39.9211585' lon='116.3500536'>
-    <tag k='exit_to' v='西四' />
-    <tag k='highway' v='motorway_junction' />
-    <tag k='ref' v='30A' />
-  </node>
-  <node id='-281094' visible='true' lat='39.9223945' lon='116.3526337' />
-  <node id='-281093' visible='true' lat='39.9232204' lon='116.3507264' />
-  <node id='-281090' visible='true' lat='39.9202986' lon='116.3499254' />
-  <node id='-281089' visible='true' lat='39.9221309' lon='116.347922'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281080' visible='true' lat='39.9223856' lon='116.3469768'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281079' visible='true' lat='39.9223582' lon='116.3507678' />
-  <node id='-281075' visible='true' lat='39.9222465' lon='116.3469776'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281072' visible='true' lat='39.9222802' lon='116.3500171' />
-  <node id='-281070' visible='true' lat='39.9211012' lon='116.3494223' />
-  <node id='-281059' visible='true' lat='39.9240161' lon='116.3502406' />
-  <node id='-281058' visible='true' lat='39.9184127' lon='116.3503168' />
-  <node id='-281051' visible='true' lat='39.9222093' lon='116.3493885' />
-  <node id='-281050' visible='true' lat='39.9223236' lon='116.3540098'>
-    <tag k='highway' v='traffic_signals' />
-  </node>
-  <node id='-281046' visible='true' lat='39.9210455' lon='116.350464' />
-  <node id='-281038' visible='true' lat='39.9210246' lon='116.3496806' />
-  <node id='-281036' visible='true' lat='39.9236113' lon='116.3493333' />
-  <node id='-281034' visible='true' lat='39.9192325' lon='116.3504575' />
-  <node id='-281032' visible='true' lat='39.9224505' lon='116.3556744' />
-  <node id='-281028' visible='true' lat='39.9233723' lon='116.3492634' />
-  <node id='-281025' visible='true' lat='39.9268148' lon='116.3495758' />
-  <node id='-281023' visible='true' lat='39.923056' lon='116.3493329' />
-  <node id='-281021' visible='true' lat='39.9234834' lon='116.3495513' />
-  <node id='-281019' visible='true' lat='39.9234267' lon='116.3506351' />
-  <node id='-281018' visible='true' lat='39.9244998' lon='116.3500734'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门北' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281014' visible='true' lat='39.9222576' lon='116.3480173'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281012' visible='true' lat='39.921232' lon='116.3508798' />
-  <node id='-281011' visible='true' lat='39.9224716' lon='116.349066' />
-  <node id='-281008' visible='true' lat='39.9211499' lon='116.3507746' />
-  <node id='-281007' visible='true' lat='39.9210514' lon='116.3499012' />
-  <node id='-281006' visible='true' lat='39.9221346' lon='116.3481448'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-281004' visible='true' lat='39.9210411' lon='116.3508646' />
-  <node id='-281000' visible='true' lat='39.9197966' lon='116.3501139'>
-    <tag k='exit_to' v='武定侯街;月坛北街;月坛南桥' />
-    <tag k='highway' v='motorway_junction' />
-  </node>
-  <node id='-280988' visible='true' lat='39.9223684' lon='116.3556784' />
-  <node id='-280983' visible='true' lat='39.9210313' lon='116.3505461' />
-  <node id='-280981' visible='true' lat='39.9241857' lon='116.3499104'>
-    <tag k='highway' v='bus_stop' />
-    <tag k='name' v='阜成门北' />
-    <tag k='public_transport' v='stop_position' />
-  </node>
-  <node id='-280975' visible='true' lat='39.9233774' lon='116.3499442' />
-  <node id='-280974' visible='true' lat='39.9225097' lon='116.3493773' />
-  <node id='-280973' visible='true' lat='39.9184032' lon='116.3501937' />
-  <node id='-280971' visible='true' lat='39.9230514' lon='116.3507526' />
-  <node id='-280969' visible='true' lat='39.926297' lon='116.3498306'>
+  <node id='-226' visible='true' lat='39.9259356' lon='116.3496945' />
+  <node id='-222' visible='true' lat='39.9216807' lon='116.349423' />
+  <node id='-220' visible='true' lat='39.9252047' lon='116.3500484' />
+  <node id='-218' visible='true' lat='39.926297' lon='116.3498306'>
     <tag k='exit_to' v='甘家口;百万庄' />
     <tag k='highway' v='motorway_junction' />
     <tag k='ref' v='30B' />
   </node>
-  <node id='-280967' visible='true' lat='39.9252047' lon='116.3500484' />
-  <node id='-280965' visible='true' lat='39.9216807' lon='116.349423' />
-  <node id='-280964' visible='true' lat='39.9223848' lon='116.3468668'>
+  <node id='-216' visible='true' lat='39.9230514' lon='116.3507526' />
+  <node id='-214' visible='true' lat='39.9184032' lon='116.3501937' />
+  <node id='-212' visible='true' lat='39.9225097' lon='116.3493773' />
+  <node id='-210' visible='true' lat='39.9233774' lon='116.3499442' />
+  <node id='-208' visible='true' lat='39.9241857' lon='116.3499104'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门北' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-206' visible='true' lat='39.9210313' lon='116.3505461' />
+  <node id='-202' visible='true' lat='39.9197966' lon='116.3501139'>
+    <tag k='exit_to' v='武定侯街;月坛北街;月坛南桥' />
+    <tag k='highway' v='motorway_junction' />
+  </node>
+  <node id='-200' visible='true' lat='39.9221346' lon='116.3481448'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-198' visible='true' lat='39.9210514' lon='116.3499012' />
+  <node id='-196' visible='true' lat='39.9211499' lon='116.3507746' />
+  <node id='-194' visible='true' lat='39.9224716' lon='116.349066' />
+  <node id='-192' visible='true' lat='39.9222576' lon='116.3480173'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-190' visible='true' lat='39.9244998' lon='116.3500734'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门北' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-188' visible='true' lat='39.9234267' lon='116.3506351' />
+  <node id='-186' visible='true' lat='39.9234834' lon='116.3495513' />
+  <node id='-184' visible='true' lat='39.923056' lon='116.3493329' />
+  <node id='-180' visible='true' lat='39.9192325' lon='116.3504575' />
+  <node id='-178' visible='true' lat='39.9210246' lon='116.3496806' />
+  <node id='-176' visible='true' lat='39.9210455' lon='116.350464' />
+  <node id='-174' visible='true' lat='39.9223236' lon='116.3540098'>
     <tag k='highway' v='traffic_signals' />
   </node>
-  <node id='-280963' visible='true' lat='39.9259356' lon='116.3496945' />
-  <node id='-280961' visible='true' lat='39.9220038' lon='116.3479805'>
+  <node id='-172' visible='true' lat='39.9222093' lon='116.3493885' />
+  <node id='-170' visible='true' lat='39.9184127' lon='116.3503168' />
+  <node id='-168' visible='true' lat='39.9240161' lon='116.3502406' />
+  <node id='-166' visible='true' lat='39.9211012' lon='116.3494223' />
+  <node id='-164' visible='true' lat='39.9222802' lon='116.3500171' />
+  <node id='-162' visible='true' lat='39.9222465' lon='116.3469776'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-160' visible='true' lat='39.9223582' lon='116.3507678' />
+  <node id='-158' visible='true' lat='39.9223856' lon='116.3469768'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-156' visible='true' lat='39.9221309' lon='116.347922'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-154' visible='true' lat='39.9202986' lon='116.3499254' />
+  <node id='-152' visible='true' lat='39.9232204' lon='116.3507264' />
+  <node id='-150' visible='true' lat='39.9223945' lon='116.3526337' />
+  <node id='-148' visible='true' lat='39.9211585' lon='116.3500536'>
+    <tag k='exit_to' v='西四' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='30A' />
+  </node>
+  <node id='-146' visible='true' lat='39.924747' lon='116.349724' />
+  <node id='-144' visible='true' lat='39.923493' lon='116.3504607' />
+  <node id='-142' visible='true' lat='39.9210845' lon='116.350725' />
+  <node id='-140' visible='true' lat='39.9222171' lon='116.3497307' />
+  <node id='-138' visible='true' lat='39.921186' lon='116.3494113' />
+  <node id='-136' visible='true' lat='39.9242409' lon='116.3500821'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门北' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-134' visible='true' lat='39.9214939' lon='116.3494065' />
+  <node id='-132' visible='true' lat='39.923519' lon='116.3493676' />
+  <node id='-130' visible='true' lat='39.9224021' lon='116.3531295'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门内' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-128' visible='true' lat='39.924543' lon='116.349729'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门北' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-126' visible='true' lat='39.9211203' lon='116.349486' />
+  <node id='-124' visible='true' lat='39.9210974' lon='116.3503799' />
+  <node id='-122' visible='true' lat='39.9268148' lon='116.3496559' />
+  <node id='-120' visible='true' lat='39.9223345' lon='116.3493867' />
+  <node id='-118' visible='true' lat='39.9211299' lon='116.3508195' />
+  <node id='-116' visible='true' lat='39.9203531' lon='116.3504258' />
+  <node id='-114' visible='true' lat='39.9223491' lon='116.350402' />
+  <node id='-112' visible='true' lat='39.9234335' lon='116.3497946' />
+  <node id='-108' visible='true' lat='39.9222417' lon='116.3504029' />
+  <node id='-106' visible='true' lat='39.9230568' lon='116.3493794' />
+  <node id='-104' visible='true' lat='39.9222536' lon='116.3507781' />
+  <node id='-102' visible='true' lat='39.9226722' lon='116.3507609'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门内' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-100' visible='true' lat='39.9223689' lon='116.351112' />
+  <node id='-98' visible='true' lat='39.9223866' lon='116.3521626'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门内' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-96' visible='true' lat='39.9277429' lon='116.3499229'>
+    <tag k='exit_to' v='官园桥;车公庄;平安里' />
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='31' />
+  </node>
+  <node id='-94' visible='true' lat='39.921496' lon='116.3494469' />
+  <node id='-92' visible='true' lat='39.9210369' lon='116.3496037' />
+  <node id='-90' visible='true' lat='39.9224419' lon='116.350766'>
     <tag k='crossing' v='uncontrolled' />
     <tag k='highway' v='crossing' />
   </node>
-  <node id='-280960' visible='true' lat='39.9196599' lon='116.3502497' />
-  <node id='-280958' visible='true' lat='39.9210291' lon='116.3497807' />
-  <node id='-280954' visible='true' lat='39.9222812' lon='116.3501703' />
-  <node id='-280952' visible='true' lat='39.9221124' lon='116.3468776'>
+  <node id='-88' visible='true' lat='39.9212334' lon='116.3508207' />
+  <node id='-86' visible='true' lat='39.9224157' lon='116.3540106'>
     <tag k='highway' v='traffic_signals' />
   </node>
-  <node id='-280950' visible='true' lat='39.9249192' lon='116.3502048' />
-  <node id='-280947' visible='true' lat='39.9222432' lon='116.346872'>
+  <node id='-84' visible='true' lat='39.9198896' lon='116.3504375' />
+  <node id='-82' visible='true' lat='39.9223649' lon='116.3509813' />
+  <node id='-80' visible='true' lat='39.9234247' lon='116.3494422' />
+  <node id='-78' visible='true' lat='39.922118' lon='116.3469877'>
     <tag k='highway' v='traffic_signals' />
   </node>
-  <node id='-280945' visible='true' lat='39.9234807' lon='116.3496896' />
-  <way id='-281530' action='modify' visible='true'>
-    <nd ref='-281911' />
-    <nd ref='-281194' />
-    <nd ref='-281326' />
-    <nd ref='-280961' />
-    <nd ref='-281316' />
-    <nd ref='-281320' />
+  <node id='-76' visible='true' lat='39.9190778' lon='116.3499757' />
+  <node id='-74' visible='true' lat='39.9238634' lon='116.350251' />
+  <node id='-72' visible='true' lat='39.9223359' lon='116.3497325' />
+  <node id='-70' visible='true' lat='39.9221415' lon='116.3483751'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-68' visible='true' lat='39.9222513' lon='116.3507058' />
+  <node id='-66' visible='true' lat='39.9243115' lon='116.3499051'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门北' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-64' visible='true' lat='39.9222675' lon='116.348349'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-62' visible='true' lat='39.9210407' lon='116.3508084' />
+  <node id='-60' visible='true' lat='39.9231856' lon='116.3507344'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门内' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-58' visible='true' lat='39.9210079' lon='116.3494523' />
+  <node id='-56' visible='true' lat='39.923393' lon='116.3493225' />
+  <node id='-54' visible='true' lat='39.9234128' lon='116.3502687' />
+  <node id='-52' visible='true' lat='39.9240241' lon='116.3496546' />
+  <node id='-50' visible='true' lat='39.9210712' lon='116.3495366' />
+  <node id='-48' visible='true' lat='39.9242454' lon='116.3497334' />
+  <node id='-46' visible='true' lat='39.9223987' lon='116.3529087'>
+    <tag k='highway' v='bus_stop' />
+    <tag k='name' v='阜成门内' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='-44' visible='true' lat='39.9222891' lon='116.3521062' />
+  <node id='-42' visible='true' lat='39.9220152' lon='116.3483255' />
+  <node id='-40' visible='true' lat='39.9220833' lon='116.3493967' />
+  <node id='-38' visible='true' lat='39.9211906' lon='116.3494623' />
+  <node id='-36' visible='true' lat='39.9210381' lon='116.3506368' />
+  <node id='-34' visible='true' lat='39.9219841' lon='116.3469947'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-32' visible='true' lat='39.9234815' lon='116.3503575' />
+  <node id='-28' visible='true' lat='39.920118' lon='116.3502445'>
+    <tag k='highway' v='motorway_junction' />
+    <tag k='ref' v='30' />
+  </node>
+  <node id='-26' visible='true' lat='39.9209125' lon='116.350768' />
+  <node id='-24' visible='true' lat='39.9234539' lon='116.3505504' />
+  <node id='-20' visible='true' lat='39.9224102' lon='116.348301'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='-18' visible='true' lat='39.9222556' lon='116.3508533' />
+  <node id='-16' visible='true' lat='39.9233594' lon='116.3506602' />
+  <node id='-14' visible='true' lat='39.9267125' lon='116.3501278' />
+  <node id='-12' visible='true' lat='39.9229504' lon='116.3493606' />
+  <node id='-10' visible='true' lat='39.9233253' lon='116.3493746' />
+  <node id='-4' action='modify' visible='true' lat='39.918453664934' lon='116.34998543487396' />
+  <way id='-316551' action='modify' visible='true'>
+    <nd ref='-316550' />
+    <nd ref='-218' />
+    <tag k='highway' v='trunk' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-345' action='modify' visible='true'>
+    <nd ref='-344' />
+    <nd ref='-180' />
     <tag k='highway' v='tertiary' />
-    <tag k='name' v='阜成门外大街' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='-281527' visible='true'>
-    <nd ref='-281228' />
-    <nd ref='-281008' />
-    <nd ref='-281111' />
-    <nd ref='-281322' />
-    <nd ref='-280983' />
-    <nd ref='-281046' />
-    <nd ref='-281149' />
-    <tag k='highway' v='secondary_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281526' visible='true'>
-    <nd ref='-281372' />
-    <nd ref='-281019' />
-    <nd ref='-281059' />
-    <tag k='highway' v='secondary_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281525' visible='true'>
-    <nd ref='-281070' />
-    <nd ref='-281301' />
-    <nd ref='-281090' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281524' visible='true'>
-    <nd ref='-281034' />
-    <nd ref='-281235' />
-    <nd ref='-281172' />
-    <nd ref='-281149' />
+  <way id='-338' visible='true'>
+    <nd ref='-198' />
+    <nd ref='-154' />
+    <nd ref='-76' />
     <tag k='highway' v='tertiary' />
     <tag k='name' v='阜成门南大街' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='-281521' visible='true'>
-    <nd ref='-281032' />
-    <nd ref='-280988' />
-    <tag k='highway' v='service' />
-  </way>
-  <way id='-281517' visible='true'>
-    <nd ref='-281263' />
-    <nd ref='-281160' />
-    <nd ref='-281280' />
-    <nd ref='-281014' />
-    <nd ref='-281075' />
-    <tag k='highway' v='primary' />
-    <tag k='name' v='阜成门外大街' />
-    <tag k='oneway' v='yes' />
-    <tag k='ref' v='G109' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281514' action='modify' visible='true'>
-    <nd ref='-280969' />
-    <nd ref='-281279' />
-    <nd ref='-280981' />
-    <nd ref='-280975' />
+  <way id='-336' visible='true'>
+    <nd ref='-234' />
+    <nd ref='-136' />
+    <nd ref='-190' />
+    <nd ref='-220' />
+    <nd ref='-96' />
     <tag k='highway' v='trunk' />
     <tag k='name' v='阜成门北大街' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='-281510' action='modify' visible='true'>
-    <nd ref='-281025' />
-    <nd ref='-281195' />
-    <nd ref='-281374' />
-    <nd ref='-281103' />
-    <tag k='highway' v='cycleway' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281506' visible='true'>
-    <nd ref='-281182' />
-    <nd ref='-281007' />
+  <way id='-334' visible='true'>
+    <nd ref='-124' />
+    <nd ref='-54' />
     <tag k='highway' v='tertiary_link' />
     <tag k='maxheight' v='3' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='-281500' visible='true'>
-    <nd ref='-281072' />
-    <nd ref='-281095' />
-    <nd ref='-281000' />
-    <tag k='highway' v='trunk' />
-    <tag k='name' v='阜成门南大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281499' visible='true'>
-    <nd ref='-280960' />
-    <nd ref='-281340' />
-    <nd ref='-280954' />
-    <tag k='highway' v='trunk' />
-    <tag k='name' v='阜成门南大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281492' visible='true'>
-    <nd ref='-280950' />
-    <nd ref='-280967' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281489' visible='true'>
-    <nd ref='-281303' />
-    <nd ref='-281331' />
-    <nd ref='-281105' />
-    <nd ref='-281346' />
-    <nd ref='-281372' />
-    <tag k='highway' v='secondary_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281484' visible='true'>
-    <nd ref='-280947' />
-    <nd ref='-280952' />
-    <tag k='highway' v='tertiary_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281483' action='modify' visible='true'>
-    <nd ref='-281334' />
-    <nd ref='-280952' />
-    <nd ref='-281251' />
-    <nd ref='-281089' />
-    <nd ref='-281006' />
-    <nd ref='-281273' />
-    <nd ref='-281051' />
-    <tag k='highway' v='primary' />
-    <tag k='name' v='阜成门外大街' />
-    <tag k='oneway' v='yes' />
-    <tag k='ref' v='G109' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281481' visible='true'>
-    <nd ref='-281210' />
-    <nd ref='-281370' />
-    <nd ref='-281315' />
-    <nd ref='-281050' />
-    <nd ref='-280988' />
+  <way id='-332' visible='true'>
+    <nd ref='-108' />
+    <nd ref='-68' />
+    <nd ref='-104' />
     <tag k='highway' v='secondary' />
     <tag k='int_name' v='Fuchengmen Neidajie' />
     <tag k='name' v='阜成门内大街' />
     <tag k='oneway' v='yes' />
     <tag k='trolley_wire' v='yes' />
   </way>
-  <way id='-281476' visible='true'>
-    <nd ref='-281311' />
-    <nd ref='-281215' />
-    <nd ref='-281036' />
-    <nd ref='-281128' />
-    <nd ref='-281028' />
-    <nd ref='-281112' />
-    <nd ref='-280974' />
-    <tag k='highway' v='cycleway' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281473' visible='true'>
-    <nd ref='-281034' />
-    <nd ref='-280960' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281471' visible='true'>
-    <nd ref='-281058' />
-    <nd ref='-280960' />
-    <tag k='highway' v='trunk' />
-    <tag k='name' v='阜成门南大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281468' visible='true'>
-    <nd ref='-281182' />
-    <nd ref='-280975' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281464' visible='true'>
-    <nd ref='-281000' />
-    <nd ref='-281256' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281463' visible='true'>
-    <nd ref='-281231' />
-    <nd ref='-281142' />
-    <nd ref='-281314' />
-    <nd ref='-281094' />
-    <nd ref='-281213' />
-    <nd ref='-281212' />
-    <nd ref='-281238' />
-    <nd ref='-281079' />
-    <nd ref='-281178' />
-    <tag k='highway' v='secondary' />
-    <tag k='int_name' v='Fuchengmen Neidajie' />
-    <tag k='name' v='阜成门内大街' />
-    <tag k='oneway' v='yes' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281460' visible='true'>
-    <nd ref='-280952' />
-    <nd ref='-281075' />
-    <tag k='highway' v='tertiary_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281459' action='modify' visible='true'>
-    <nd ref='-280974' />
-    <nd ref='-281011' />
-    <nd ref='-281369' />
-    <nd ref='-281080' />
-    <nd ref='-280964' />
-    <nd ref='-281909' />
-    <tag k='highway' v='tertiary' />
-    <tag k='name' v='阜成门外大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281457' action='modify' visible='true'>
-    <nd ref='-280947' />
-    <nd ref='-281353' />
-    <tag k='highway' v='primary' />
-    <tag k='name' v='阜成门外大街' />
-    <tag k='oneway' v='yes' />
-    <tag k='ref' v='G109' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281451' visible='true'>
-    <nd ref='-281051' />
-    <nd ref='-281115' />
-    <tag k='highway' v='primary' />
-    <tag k='name' v='阜成门外大街' />
-    <tag k='oneway' v='yes' />
-    <tag k='ref' v='G109' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281449' visible='true'>
-    <nd ref='-281278' />
-    <nd ref='-281098' />
-    <nd ref='-281228' />
-    <tag k='highway' v='cycleway' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281448' action='modify' visible='true'>
-    <nd ref='-281303' />
-    <nd ref='-281262' />
-    <nd ref='-281059' />
-    <nd ref='-280950' />
-    <nd ref='-281378' />
-    <tag k='highway' v='tertiary' />
-    <tag k='name' v='阜成门北大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281443' visible='true'>
-    <nd ref='-280965' />
-    <nd ref='-281137' />
-    <nd ref='-281127' />
-    <nd ref='-281070' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281437' visible='true'>
-    <nd ref='-281372' />
-    <nd ref='-281093' />
-    <nd ref='-281292' />
-    <nd ref='-280971' />
-    <nd ref='-281211' />
-    <tag k='highway' v='secondary_link' />
-  </way>
-  <way id='-281434' visible='true'>
-    <nd ref='-281383' />
-    <nd ref='-280974' />
-    <nd ref='-281160' />
-    <tag k='highway' v='trunk_link' />
-  </way>
-  <way id='-281430' action='modify' visible='true'>
-    <nd ref='-281152' />
-    <nd ref='-280963' />
-    <nd ref='-281103' />
-    <nd ref='-281144' />
-    <nd ref='-281311' />
-    <nd ref='-281182' />
-    <tag k='highway' v='tertiary' />
-    <tag k='name' v='阜成门北大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281429' visible='true'>
-    <nd ref='-281383' />
-    <nd ref='-281203' />
-    <nd ref='-281386' />
-    <nd ref='-281245' />
-    <nd ref='-281021' />
-    <nd ref='-280945' />
-    <nd ref='-281182' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281426' visible='true'>
-    <nd ref='-281340' />
-    <nd ref='-281172' />
-    <nd ref='-281344' />
-    <nd ref='-281282' />
-    <nd ref='-281171' />
-    <nd ref='-281228' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281422' visible='true'>
-    <nd ref='-280969' />
-    <nd ref='-280963' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281419' visible='true'>
-    <nd ref='-281211' />
-    <nd ref='-281220' />
-    <nd ref='-281079' />
-    <tag k='highway' v='secondary_link' />
-  </way>
-  <way id='-281414' visible='true'>
-    <nd ref='-281095' />
-    <nd ref='-281007' />
-    <nd ref='-280958' />
-    <nd ref='-281038' />
-    <nd ref='-281219' />
-    <nd ref='-281310' />
-    <nd ref='-281147' />
-    <nd ref='-281321' />
-    <nd ref='-281218' />
-    <nd ref='-280965' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281413' visible='true'>
-    <nd ref='-281075' />
-    <nd ref='-280947' />
-    <tag k='highway' v='primary_link' />
-    <tag k='oneway' v='yes' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281412' visible='true'>
-    <nd ref='-281355' />
-    <nd ref='-281177' />
-    <nd ref='-281004' />
-    <nd ref='-281188' />
-    <nd ref='-281012' />
-    <nd ref='-281370' />
-    <tag k='highway' v='cycleway' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281411' visible='true'>
-    <nd ref='-281000' />
-    <nd ref='-280973' />
-    <tag k='highway' v='trunk' />
-    <tag k='name' v='阜成门南大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281406' visible='true'>
-    <nd ref='-281210' />
-    <nd ref='-281228' />
-    <tag k='highway' v='trunk_link' />
-  </way>
-  <way id='-281403' visible='true'>
-    <nd ref='-280975' />
-    <nd ref='-281072' />
-    <tag k='highway' v='trunk' />
-    <tag k='name' v='阜成门北大街' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281401' visible='true'>
-    <nd ref='-280965' />
-    <nd ref='-281320' />
-    <nd ref='-281051' />
-    <tag k='highway' v='trunk_link' />
-  </way>
-  <way id='-281400' visible='true'>
-    <nd ref='-281032' />
-    <nd ref='-281231' />
-    <tag k='highway' v='secondary' />
-    <tag k='int_name' v='Fuchengmen Neidajie' />
-    <tag k='name' v='阜成门内大街' />
-    <tag k='oneway' v='yes' />
-    <tag k='trolley_wire' v='yes' />
-  </way>
-  <way id='-281396' visible='true'>
-    <nd ref='-281311' />
-    <nd ref='-281307' />
-    <nd ref='-281138' />
-    <nd ref='-281302' />
-    <nd ref='-281023' />
-    <nd ref='-281383' />
-    <tag k='highway' v='trunk_link' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281394' visible='true'>
-    <nd ref='-281178' />
-    <nd ref='-281263' />
+  <way id='-330' visible='true'>
+    <nd ref='-114' />
+    <nd ref='-72' />
     <tag k='bridge' v='yes' />
     <tag k='highway' v='secondary' />
     <tag k='int_name' v='Fuchengmen Qiao' />
@@ -656,47 +269,320 @@
     <tag k='oneway' v='yes' />
     <tag k='trolley_wire' v='yes' />
   </way>
-  <way id='-281392' visible='true'>
-    <nd ref='-281201' />
-    <nd ref='-281278' />
-    <nd ref='-281210' />
+  <way id='-328' visible='true'>
+    <nd ref='-48' />
+    <nd ref='-52' />
+    <nd ref='-132' />
+    <nd ref='-56' />
+    <nd ref='-184' />
+    <nd ref='-12' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-324' visible='true'>
+    <nd ref='-222' />
+    <nd ref='-40' />
+    <nd ref='-172' />
+    <tag k='highway' v='trunk_link' />
+  </way>
+  <way id='-322' visible='true'>
+    <nd ref='-210' />
+    <nd ref='-164' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='阜成门北大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-320' visible='true'>
+    <nd ref='-104' />
+    <nd ref='-88' />
+    <tag k='highway' v='trunk_link' />
+  </way>
+  <way id='-318' visible='true'>
+    <nd ref='-202' />
+    <nd ref='-214' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='阜成门南大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-314' visible='true'>
+    <nd ref='-148' />
+    <nd ref='-198' />
+    <nd ref='-232' />
+    <nd ref='-178' />
+    <nd ref='-92' />
+    <nd ref='-50' />
+    <nd ref='-126' />
+    <nd ref='-38' />
+    <nd ref='-94' />
+    <nd ref='-222' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-312' visible='true'>
+    <nd ref='-102' />
+    <nd ref='-90' />
+    <nd ref='-160' />
+    <tag k='highway' v='secondary_link' />
+  </way>
+  <way id='-310' visible='true'>
+    <nd ref='-218' />
+    <nd ref='-226' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-308' visible='true'>
+    <nd ref='-28' />
+    <nd ref='-116' />
+    <nd ref='-26' />
+    <nd ref='-62' />
+    <nd ref='-118' />
+    <nd ref='-88' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-306' visible='true'>
+    <nd ref='-12' />
+    <nd ref='-106' />
+    <nd ref='-10' />
+    <nd ref='-80' />
+    <nd ref='-186' />
+    <nd ref='-242' />
+    <nd ref='-112' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-304' action='modify' visible='true'>
+    <nd ref='-122' />
+    <nd ref='-226' />
+    <nd ref='-146' />
+    <nd ref='-128' />
+    <nd ref='-48' />
+    <nd ref='-112' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='阜成门北大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-302' visible='true'>
+    <nd ref='-12' />
+    <nd ref='-212' />
+    <nd ref='-120' />
+    <tag k='highway' v='trunk_link' />
+  </way>
+  <way id='-300' visible='true'>
+    <nd ref='-16' />
+    <nd ref='-152' />
+    <nd ref='-60' />
+    <nd ref='-216' />
+    <nd ref='-102' />
+    <tag k='highway' v='secondary_link' />
+  </way>
+  <way id='-298' visible='true'>
+    <nd ref='-222' />
+    <nd ref='-134' />
+    <nd ref='-138' />
+    <nd ref='-166' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-296' action='modify' visible='true'>
+    <nd ref='-54' />
+    <nd ref='-74' />
+    <nd ref='-168' />
+    <nd ref='-238' />
+    <nd ref='-14' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='阜成门北大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-294' action='modify' visible='true'>
+    <nd ref='-172' />
+    <nd ref='-140' />
+    <nd ref='-108' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='阜成门外大街' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='G109' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='-290' action='modify' visible='true'>
+    <nd ref='-212' />
+    <nd ref='-194' />
+    <nd ref='-20' />
+    <nd ref='-158' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='阜成门外大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-286' visible='true'>
+    <nd ref='-86' />
+    <nd ref='-130' />
+    <nd ref='-46' />
+    <nd ref='-150' />
+    <nd ref='-98' />
+    <nd ref='-100' />
+    <nd ref='-82' />
+    <nd ref='-160' />
+    <nd ref='-114' />
     <tag k='highway' v='secondary' />
     <tag k='int_name' v='Fuchengmen Neidajie' />
     <tag k='name' v='阜成门内大街' />
     <tag k='oneway' v='yes' />
     <tag k='trolley_wire' v='yes' />
   </way>
-  <way id='-281391' visible='true'>
-    <nd ref='-281149' />
-    <nd ref='-281303' />
+  <way id='-284' visible='true'>
+    <nd ref='-202' />
+    <nd ref='-76' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-282' visible='true'>
+    <nd ref='-112' />
+    <nd ref='-210' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-280' visible='true'>
+    <nd ref='-170' />
+    <nd ref='-230' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='阜成门南大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-278' visible='true'>
+    <nd ref='-180' />
+    <nd ref='-230' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-276' action='modify' visible='true'>
+    <nd ref='-104' />
+    <nd ref='-18' />
+    <nd ref='-44' />
+    <nd ref='-174' />
+    <tag k='highway' v='secondary' />
+    <tag k='int_name' v='Fuchengmen Neidajie' />
+    <tag k='name' v='阜成门内大街' />
+    <tag k='oneway' v='yes' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='-274' action='modify' visible='true'>
+    <nd ref='-78' />
+    <nd ref='-156' />
+    <nd ref='-200' />
+    <nd ref='-70' />
+    <nd ref='-172' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='阜成门外大街' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='G109' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='-270' visible='true'>
+    <nd ref='-54' />
+    <nd ref='-32' />
+    <nd ref='-144' />
+    <nd ref='-24' />
+    <nd ref='-16' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-268' visible='true'>
+    <nd ref='-238' />
+    <nd ref='-220' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-266' visible='true'>
+    <nd ref='-230' />
+    <nd ref='-28' />
+    <nd ref='-234' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='阜成门南大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-264' visible='true'>
+    <nd ref='-164' />
+    <nd ref='-148' />
+    <nd ref='-202' />
+    <tag k='highway' v='trunk' />
+    <tag k='name' v='阜成门南大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-262' visible='true'>
+    <nd ref='-112' />
+    <nd ref='-198' />
     <tag k='highway' v='tertiary_link' />
     <tag k='maxheight' v='3' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='-281390' visible='true'>
-    <nd ref='-280974' />
-    <nd ref='-281199' />
-    <nd ref='-281290' />
-    <nd ref='-281386' />
-    <tag k='highway' v='cycleway' />
-    <tag k='oneway' v='yes' />
-  </way>
-  <way id='-281389' visible='true'>
-    <nd ref='-280954' />
-    <nd ref='-281129' />
-    <nd ref='-281018' />
-    <nd ref='-280967' />
-    <nd ref='-281214' />
+  <way id='-260' action='modify' visible='true'>
+    <nd ref='-218' />
+    <nd ref='-66' />
+    <nd ref='-208' />
+    <nd ref='-210' />
     <tag k='highway' v='trunk' />
     <tag k='name' v='阜成门北大街' />
     <tag k='oneway' v='yes' />
   </way>
-  <way id='-281387' visible='true'>
-    <nd ref='-281007' />
-    <nd ref='-281090' />
-    <nd ref='-281256' />
+  <way id='-258' visible='true'>
+    <nd ref='-72' />
+    <nd ref='-120' />
+    <nd ref='-64' />
+    <nd ref='-192' />
+    <nd ref='-162' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='阜成门外大街' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='G109' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='-254' visible='true'>
+    <nd ref='-180' />
+    <nd ref='-84' />
+    <nd ref='-116' />
+    <nd ref='-124' />
     <tag k='highway' v='tertiary' />
     <tag k='name' v='阜成门南大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-252' visible='true'>
+    <nd ref='-166' />
+    <nd ref='-58' />
+    <nd ref='-154' />
+    <tag k='highway' v='trunk_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-250' visible='true'>
+    <nd ref='-16' />
+    <nd ref='-188' />
+    <nd ref='-168' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-248' visible='true'>
+    <nd ref='-88' />
+    <nd ref='-196' />
+    <nd ref='-142' />
+    <nd ref='-36' />
+    <nd ref='-206' />
+    <nd ref='-176' />
+    <nd ref='-124' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-246' action='modify' visible='true'>
+    <nd ref='-34' />
+    <nd ref='-228' />
+    <nd ref='-42' />
+    <nd ref='-40' />
+    <tag k='highway' v='tertiary' />
+    <tag k='name' v='阜成门外大街' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-244' action='modify' visible='true'>
+    <nd ref='-76' />
+    <nd ref='-4' />
+    <tag k='highway' v='tertiary' />
     <tag k='oneway' v='yes' />
   </way>
 </osm>
