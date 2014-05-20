@@ -1,4 +1,4 @@
-junction_data
+Data Description
 =============
 * Each .osm file is a small portion of OpenStreetMap for a specific location.
 ## Interesting Junctions
